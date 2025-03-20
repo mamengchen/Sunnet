@@ -1,0 +1,3 @@
+/home/mmc/mmorpg/cppSunnet/build/CMakeFiles/sunnet.dir
+/home/mmc/mmorpg/cppSunnet/build/CMakeFiles/edit_cache.dir
+/home/mmc/mmorpg/cppSunnet/build/CMakeFiles/rebuild_cache.dir
