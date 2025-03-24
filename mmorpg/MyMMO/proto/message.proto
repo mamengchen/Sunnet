@@ -1,22 +1,20 @@
-// message.proto
 syntax = "proto3";
 
-// 登录请求
-message LoginRequest {
-    string username = 1;
-    string password = 2;
+message PlayerJoin {
+  string player_id = 1;
 }
 
-// 登录响应
-message LoginResponse {
-    bool result = 1;
+message PlayerLeave {
+  string player_id = 1;
 }
 
-// 心跳请求
-message HeartbeatRequest {
+message PlayerMove {
+  string player_id = 1;
+  float x = 2;
+  float y = 3;
+  float z = 4;
 }
 
-// 心跳响应
-message HeartbeatResponse {
-    string status = 1;
-} 
+message ServerBroadcast {
+  repeated PlayerMove players = 1;
+}

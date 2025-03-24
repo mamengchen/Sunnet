@@ -1,31 +1,46 @@
+local skynet = require "skynet"
 local socket = require "skynet.socket"
+local pb = require "protobuf"
 
-local clients = {}    -- 存储客户端连接
+local players = {}
 
-local function handle_message(client_fd, msg)
-    for fd in pairs(clients) do
-        if fd ~= client_fd then
-            socket.write(fd, msg)
-        end
+local function broadcast_position()
+    local msg = { players = {} }
+    for id, pos in pairs(players) do
+        table.insert(msg.players, { player_id = id, x = pos.x, y = pos.y, z = pos.z })
+    end
+    local data = pb.encode("ServerBroadcast", msg)
+
+    for id, player in pairs(players) do
+        socket.write(player.fd, data)
     end
 end
 
-local function handle_connect(client_fd)
-    clients[client_fd] = true
-    socket.start(client_fd)
-
+local function handle_client(fd)
+    socket.start(fd)
     while true do
-        local msg = socket.read(client_fd)
-        if not msg then break end
-        handle_message(client_fd, msg)
-    end
+        local data = socket.read(fd)
+        if not data then
+            break
+        end
 
-    clients[client_fd] = nil
+        local msg = pb.decode("PlayerMove", data)
+        if msg then
+            players[msg.player_id] = { fd = fd, x = msg.x, y = msg.y, z = msg.z }
+            broadcast_position()
+        end
+    end
+    socket.close(fd)
 end
 
 skynet.start(function()
-    local listen_fd = socket.listen("0.0.0.0", 8888)
-    socket.start(listen_fd, function(client_fd, addr)
-        skynet.fork(handle_connect, client_fd)
+    local addr = "0.0.0.0"
+    local port = 8888
+    local listen_fd = socket.listen(addr, port)
+    print("Server started on " .. addr .. ":" .. port)
+
+    socket.start(listen_fd, function(fd, addr)
+        print("Client connected from:", addr)
+        skynet.fork(handle_client, fd)
     end)
 end)
