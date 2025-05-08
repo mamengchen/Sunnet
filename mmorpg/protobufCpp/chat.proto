@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package chat;
+
+enum MassageType {
+    TEXT = 0;
+    IMAGE = 1;
+    STATUS = 2; // 用于用户在线状态更新
+}
+
+message ChatMessage {
+    string sender = 1;  // 发送者
+    string receiver = 2; // 接收者
+    int64 timestamp = 3; // 时间戳
+    MassageType type = 4;
+    oneof content {
+        string text = 5;
+        bytes image_data = 6;
+        bool online = 7;
+    }
+}
