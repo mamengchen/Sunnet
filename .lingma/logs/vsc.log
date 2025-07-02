@@ -1,0 +1,3140 @@
+2025-04-23 22:38:13 info: Lingma [version: 2.3.0, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-04-23 22:38:13 info: Congratulations, "Lingma" is now active!
+2025-04-23 22:38:13 info: start update lingma binary: /home/mmc/.vscode-server/extensions/alibaba-cloud.tongyi-lingma-2.3.0/dist
+2025-04-23 22:38:13 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-04-23 22:38:13 info: read lingma info. pid=undefined
+2025-04-23 22:38:13 info: unzipLingma: start
+2025-04-23 22:38:15 info: unzip onclose
+2025-04-23 22:38:15 info: unzip onfinish
+2025-04-23 22:38:15 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-04-23 22:38:15 info: read cosy info empty, start lingma process now. 
+2025-04-23 22:38:15 info: try to start lingma process.
+2025-04-23 22:38:15 info: current lingma version is 2.3.0, retry times: 0
+2025-04-23 22:38:15 info: start lingma process successfully.
+2025-04-23 22:38:18 info: lingma try to connect to language server.
+2025-04-23 22:38:18 info: try to create ws connection
+2025-04-23 22:38:18 info: lingma connected to language server successfully.
+2025-04-23 22:38:18 info: auth status synced. id=, status=1, whitelist=1, token=
+2025-04-23 22:38:18 info: auth status synced. id=, status=1, whitelist=1, token=
+2025-04-24 10:18:42 info: Lingma [version: 2.3.0, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-04-24 10:18:42 info: Congratulations, "Lingma" is now active!
+2025-04-24 10:18:42 info: check exist binary path, no need update.
+2025-04-24 10:18:44 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-04-24 10:18:44 info: read cosy info empty, start lingma process now. 
+2025-04-24 10:18:44 info: try to start lingma process.
+2025-04-24 10:18:44 info: current lingma version is 2.3.0, retry times: 0
+2025-04-24 10:18:44 info: start lingma process successfully.
+2025-04-24 10:18:48 info: lingma try to connect to language server.
+2025-04-24 10:18:48 info: try to create ws connection
+2025-04-24 10:18:48 info: lingma connected to language server successfully.
+2025-04-24 10:18:48 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-24 10:28:39 info: try to create ws connection
+2025-04-24 10:38:39 info: try to create ws connection
+2025-04-24 10:48:39 info: try to create ws connection
+2025-04-24 10:58:39 info: try to create ws connection
+2025-04-24 11:08:39 info: try to create ws connection
+2025-04-24 11:18:39 info: try to create ws connection
+2025-04-24 11:28:39 info: try to create ws connection
+2025-04-24 11:38:39 info: try to create ws connection
+2025-04-24 11:48:39 info: try to create ws connection
+2025-04-24 11:58:39 info: try to create ws connection
+2025-04-24 12:08:39 info: try to create ws connection
+2025-04-24 12:18:39 info: try to create ws connection
+2025-04-24 12:28:39 info: try to create ws connection
+2025-04-24 12:38:39 info: try to create ws connection
+2025-04-24 12:48:39 info: try to create ws connection
+2025-04-24 12:58:39 info: try to create ws connection
+2025-04-24 13:08:39 info: try to create ws connection
+2025-04-24 13:18:39 info: try to create ws connection
+2025-04-24 13:28:39 info: try to create ws connection
+2025-04-24 13:38:39 info: try to create ws connection
+2025-04-24 13:48:39 info: try to create ws connection
+2025-04-24 13:58:39 info: try to create ws connection
+2025-04-24 14:08:39 info: try to create ws connection
+2025-04-24 14:18:39 info: try to create ws connection
+2025-04-24 14:28:39 info: try to create ws connection
+2025-04-24 14:38:39 info: try to create ws connection
+2025-04-24 14:48:39 info: try to create ws connection
+2025-04-24 14:58:39 info: try to create ws connection
+2025-04-24 15:08:39 info: try to create ws connection
+2025-04-24 15:18:39 info: try to create ws connection
+2025-04-24 15:28:39 info: try to create ws connection
+2025-04-24 15:38:39 info: try to create ws connection
+2025-04-24 15:48:39 info: try to create ws connection
+2025-04-24 15:58:39 info: try to create ws connection
+2025-04-24 16:08:39 info: try to create ws connection
+2025-04-24 16:18:39 info: try to create ws connection
+2025-04-24 16:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-24 16:28:39 info: try to create ws connection
+2025-04-24 16:38:39 info: try to create ws connection
+2025-04-24 16:48:39 info: try to create ws connection
+2025-04-24 16:58:39 info: try to create ws connection
+2025-04-24 17:08:39 info: try to create ws connection
+2025-04-24 17:18:39 info: try to create ws connection
+2025-04-24 17:28:39 info: try to create ws connection
+2025-04-24 17:38:39 info: try to create ws connection
+2025-04-24 17:48:39 info: try to create ws connection
+2025-04-24 17:58:39 info: try to create ws connection
+2025-04-24 18:08:39 info: try to create ws connection
+2025-04-24 18:18:39 info: try to create ws connection
+2025-04-24 18:28:39 info: try to create ws connection
+2025-04-24 18:38:39 info: try to create ws connection
+2025-04-24 18:48:39 info: try to create ws connection
+2025-04-24 18:58:39 info: try to create ws connection
+2025-04-24 19:08:39 info: try to create ws connection
+2025-04-24 19:18:39 info: try to create ws connection
+2025-04-24 19:28:39 info: try to create ws connection
+2025-04-24 19:38:39 info: try to create ws connection
+2025-04-24 19:48:39 info: try to create ws connection
+2025-04-24 19:58:39 info: try to create ws connection
+2025-04-24 20:08:39 info: try to create ws connection
+2025-04-24 20:18:39 info: try to create ws connection
+2025-04-24 20:28:39 info: try to create ws connection
+2025-04-24 20:38:39 info: try to create ws connection
+2025-04-24 20:48:39 info: try to create ws connection
+2025-04-24 20:58:39 info: try to create ws connection
+2025-04-24 21:08:39 info: try to create ws connection
+2025-04-24 21:18:39 info: try to create ws connection
+2025-04-24 21:28:39 info: try to create ws connection
+2025-04-24 21:38:39 info: try to create ws connection
+2025-04-24 21:48:39 info: try to create ws connection
+2025-04-24 21:58:39 info: try to create ws connection
+2025-04-24 22:08:39 info: try to create ws connection
+2025-04-24 22:18:39 info: try to create ws connection
+2025-04-24 22:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-24 22:28:39 info: try to create ws connection
+2025-04-24 22:38:39 info: try to create ws connection
+2025-04-24 22:48:39 info: try to create ws connection
+2025-04-24 22:58:39 info: try to create ws connection
+2025-04-24 23:08:39 info: try to create ws connection
+2025-04-24 23:18:39 info: try to create ws connection
+2025-04-24 23:28:39 info: try to create ws connection
+2025-04-24 23:38:39 info: try to create ws connection
+2025-04-24 23:48:39 info: try to create ws connection
+2025-04-24 23:58:39 info: try to create ws connection
+2025-04-25 00:08:39 info: try to create ws connection
+2025-04-25 00:18:39 info: try to create ws connection
+2025-04-25 00:28:39 info: try to create ws connection
+2025-04-25 00:38:39 info: try to create ws connection
+2025-04-25 00:48:39 info: try to create ws connection
+2025-04-25 00:58:39 info: try to create ws connection
+2025-04-25 01:08:39 info: try to create ws connection
+2025-04-25 01:18:39 info: try to create ws connection
+2025-04-25 01:28:39 info: try to create ws connection
+2025-04-25 01:38:39 info: try to create ws connection
+2025-04-25 01:48:39 info: try to create ws connection
+2025-04-25 01:58:39 info: try to create ws connection
+2025-04-25 02:08:39 info: try to create ws connection
+2025-04-25 02:18:39 info: try to create ws connection
+2025-04-25 02:28:39 info: try to create ws connection
+2025-04-25 02:38:39 info: try to create ws connection
+2025-04-25 02:48:39 info: try to create ws connection
+2025-04-25 02:58:39 info: try to create ws connection
+2025-04-25 03:08:39 info: try to create ws connection
+2025-04-25 03:18:39 info: try to create ws connection
+2025-04-25 03:28:39 info: try to create ws connection
+2025-04-25 03:38:39 info: try to create ws connection
+2025-04-25 03:48:39 info: try to create ws connection
+2025-04-25 03:58:39 info: try to create ws connection
+2025-04-25 04:08:39 info: try to create ws connection
+2025-04-25 04:18:39 info: try to create ws connection
+2025-04-25 04:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-25 04:28:39 info: try to create ws connection
+2025-04-25 04:38:39 info: try to create ws connection
+2025-04-25 04:48:39 info: try to create ws connection
+2025-04-25 04:58:39 info: try to create ws connection
+2025-04-25 05:08:39 info: try to create ws connection
+2025-04-25 05:18:39 info: try to create ws connection
+2025-04-25 05:28:39 info: try to create ws connection
+2025-04-25 05:38:39 info: try to create ws connection
+2025-04-25 05:48:39 info: try to create ws connection
+2025-04-25 05:58:39 info: try to create ws connection
+2025-04-25 06:08:39 info: try to create ws connection
+2025-04-25 06:18:39 info: try to create ws connection
+2025-04-25 06:28:39 info: try to create ws connection
+2025-04-25 06:38:39 info: try to create ws connection
+2025-04-25 06:48:39 info: try to create ws connection
+2025-04-25 06:58:39 info: try to create ws connection
+2025-04-25 07:08:39 info: try to create ws connection
+2025-04-25 07:18:39 info: try to create ws connection
+2025-04-25 07:28:39 info: try to create ws connection
+2025-04-25 07:38:39 info: try to create ws connection
+2025-04-25 07:48:39 info: try to create ws connection
+2025-04-25 07:58:39 info: try to create ws connection
+2025-04-25 08:08:39 info: try to create ws connection
+2025-04-25 08:18:39 info: try to create ws connection
+2025-04-25 08:28:39 info: try to create ws connection
+2025-04-25 08:38:39 info: try to create ws connection
+2025-04-25 08:48:39 info: try to create ws connection
+2025-04-25 08:58:39 info: try to create ws connection
+2025-04-25 09:08:39 info: try to create ws connection
+2025-04-25 09:18:39 info: try to create ws connection
+2025-04-25 09:28:39 info: try to create ws connection
+2025-04-25 09:38:39 info: try to create ws connection
+2025-04-25 09:48:39 info: try to create ws connection
+2025-04-25 09:58:39 info: try to create ws connection
+2025-04-25 10:08:39 info: try to create ws connection
+2025-04-25 10:18:39 info: try to create ws connection
+2025-04-25 10:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-25 10:28:39 info: try to create ws connection
+2025-04-25 10:38:39 info: try to create ws connection
+2025-04-25 10:48:39 info: try to create ws connection
+2025-04-25 10:58:39 info: try to create ws connection
+2025-04-25 11:08:39 info: try to create ws connection
+2025-04-25 11:18:39 info: try to create ws connection
+2025-04-25 11:28:39 info: try to create ws connection
+2025-04-25 11:38:39 info: try to create ws connection
+2025-04-25 11:48:39 info: try to create ws connection
+2025-04-25 11:58:39 info: try to create ws connection
+2025-04-25 12:08:39 info: try to create ws connection
+2025-04-25 12:18:39 info: try to create ws connection
+2025-04-25 12:28:39 info: try to create ws connection
+2025-04-25 12:38:39 info: try to create ws connection
+2025-04-25 12:48:39 info: try to create ws connection
+2025-04-25 12:58:39 info: try to create ws connection
+2025-04-25 13:08:39 info: try to create ws connection
+2025-04-25 13:18:39 info: try to create ws connection
+2025-04-25 13:28:39 info: try to create ws connection
+2025-04-25 13:38:39 info: try to create ws connection
+2025-04-25 13:48:39 info: try to create ws connection
+2025-04-25 13:58:39 info: try to create ws connection
+2025-04-25 14:08:39 info: try to create ws connection
+2025-04-25 14:18:39 info: try to create ws connection
+2025-04-25 14:28:39 info: try to create ws connection
+2025-04-25 14:38:39 info: try to create ws connection
+2025-04-25 14:48:39 info: try to create ws connection
+2025-04-25 14:58:39 info: try to create ws connection
+2025-04-25 15:08:39 info: try to create ws connection
+2025-04-25 15:18:39 info: try to create ws connection
+2025-04-25 15:28:39 info: try to create ws connection
+2025-04-25 15:38:39 info: try to create ws connection
+2025-04-25 15:48:39 info: try to create ws connection
+2025-04-25 15:58:39 info: try to create ws connection
+2025-04-25 16:08:39 info: try to create ws connection
+2025-04-25 16:18:39 info: try to create ws connection
+2025-04-25 16:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-25 16:28:39 info: try to create ws connection
+2025-04-25 16:38:39 info: try to create ws connection
+2025-04-25 16:48:39 info: try to create ws connection
+2025-04-25 16:58:39 info: try to create ws connection
+2025-04-25 17:08:39 info: try to create ws connection
+2025-04-25 17:18:39 info: try to create ws connection
+2025-04-25 17:28:39 info: try to create ws connection
+2025-04-25 17:38:39 info: try to create ws connection
+2025-04-25 17:48:39 info: try to create ws connection
+2025-04-25 17:58:39 info: try to create ws connection
+2025-04-25 18:08:39 info: try to create ws connection
+2025-04-25 18:18:39 info: try to create ws connection
+2025-04-25 18:28:39 info: try to create ws connection
+2025-04-25 18:38:39 info: try to create ws connection
+2025-04-25 18:48:39 info: try to create ws connection
+2025-04-25 18:58:39 info: try to create ws connection
+2025-04-25 19:08:39 info: try to create ws connection
+2025-04-25 19:18:39 info: try to create ws connection
+2025-04-25 19:28:39 info: try to create ws connection
+2025-04-25 19:38:39 info: try to create ws connection
+2025-04-25 19:48:39 info: try to create ws connection
+2025-04-25 19:58:39 info: try to create ws connection
+2025-04-25 20:08:39 info: try to create ws connection
+2025-04-25 20:18:39 info: try to create ws connection
+2025-04-25 20:28:39 info: try to create ws connection
+2025-04-25 20:38:39 info: try to create ws connection
+2025-04-25 20:48:39 info: try to create ws connection
+2025-04-25 20:58:39 info: try to create ws connection
+2025-04-25 21:08:39 info: try to create ws connection
+2025-04-25 21:18:39 info: try to create ws connection
+2025-04-25 21:28:39 info: try to create ws connection
+2025-04-25 21:38:39 info: try to create ws connection
+2025-04-25 21:48:39 info: try to create ws connection
+2025-04-25 21:58:39 info: try to create ws connection
+2025-04-25 22:08:39 info: try to create ws connection
+2025-04-25 22:18:39 info: try to create ws connection
+2025-04-25 22:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-25 22:28:39 info: try to create ws connection
+2025-04-25 22:38:39 info: try to create ws connection
+2025-04-25 22:48:39 info: try to create ws connection
+2025-04-25 22:58:39 info: try to create ws connection
+2025-04-25 23:08:39 info: try to create ws connection
+2025-04-25 23:18:39 info: try to create ws connection
+2025-04-25 23:28:39 info: try to create ws connection
+2025-04-25 23:38:39 info: try to create ws connection
+2025-04-25 23:48:39 info: try to create ws connection
+2025-04-25 23:58:39 info: try to create ws connection
+2025-04-26 00:08:39 info: try to create ws connection
+2025-04-26 00:18:39 info: try to create ws connection
+2025-04-26 00:28:39 info: try to create ws connection
+2025-04-26 00:38:39 info: try to create ws connection
+2025-04-26 00:48:39 info: try to create ws connection
+2025-04-26 00:58:39 info: try to create ws connection
+2025-04-26 01:08:39 info: try to create ws connection
+2025-04-26 01:18:39 info: try to create ws connection
+2025-04-26 01:28:39 info: try to create ws connection
+2025-04-26 01:38:39 info: try to create ws connection
+2025-04-26 01:48:39 info: try to create ws connection
+2025-04-26 01:58:39 info: try to create ws connection
+2025-04-26 02:08:39 info: try to create ws connection
+2025-04-26 02:18:39 info: try to create ws connection
+2025-04-26 02:28:39 info: try to create ws connection
+2025-04-26 02:38:39 info: try to create ws connection
+2025-04-26 02:48:39 info: try to create ws connection
+2025-04-26 02:58:39 info: try to create ws connection
+2025-04-26 03:08:39 info: try to create ws connection
+2025-04-26 03:18:39 info: try to create ws connection
+2025-04-26 03:28:39 info: try to create ws connection
+2025-04-26 03:38:39 info: try to create ws connection
+2025-04-26 03:48:39 info: try to create ws connection
+2025-04-26 03:58:39 info: try to create ws connection
+2025-04-26 04:08:39 info: try to create ws connection
+2025-04-26 04:18:39 info: try to create ws connection
+2025-04-26 04:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-26 04:28:39 info: try to create ws connection
+2025-04-26 04:38:39 info: try to create ws connection
+2025-04-26 04:48:39 info: try to create ws connection
+2025-04-26 04:58:39 info: try to create ws connection
+2025-04-26 05:08:39 info: try to create ws connection
+2025-04-26 05:18:39 info: try to create ws connection
+2025-04-26 05:28:39 info: try to create ws connection
+2025-04-26 05:38:39 info: try to create ws connection
+2025-04-26 05:48:39 info: try to create ws connection
+2025-04-26 05:58:39 info: try to create ws connection
+2025-04-26 06:08:39 info: try to create ws connection
+2025-04-26 06:18:39 info: try to create ws connection
+2025-04-26 06:28:39 info: try to create ws connection
+2025-04-26 06:38:39 info: try to create ws connection
+2025-04-26 06:48:39 info: try to create ws connection
+2025-04-26 06:58:39 info: try to create ws connection
+2025-04-26 07:08:39 info: try to create ws connection
+2025-04-26 07:18:39 info: try to create ws connection
+2025-04-26 07:28:39 info: try to create ws connection
+2025-04-26 07:38:39 info: try to create ws connection
+2025-04-26 07:48:39 info: try to create ws connection
+2025-04-26 07:58:39 info: try to create ws connection
+2025-04-26 08:08:39 info: try to create ws connection
+2025-04-26 08:18:39 info: try to create ws connection
+2025-04-26 08:28:39 info: try to create ws connection
+2025-04-26 08:38:39 info: try to create ws connection
+2025-04-26 08:48:39 info: try to create ws connection
+2025-04-26 08:58:39 info: try to create ws connection
+2025-04-26 09:08:39 info: try to create ws connection
+2025-04-26 09:18:39 info: try to create ws connection
+2025-04-26 09:28:39 info: try to create ws connection
+2025-04-26 09:38:39 info: try to create ws connection
+2025-04-26 09:48:39 info: try to create ws connection
+2025-04-26 09:58:39 info: try to create ws connection
+2025-04-26 10:08:39 info: try to create ws connection
+2025-04-26 10:18:39 info: try to create ws connection
+2025-04-26 10:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-26 10:28:39 info: try to create ws connection
+2025-04-26 10:38:39 info: try to create ws connection
+2025-04-26 10:48:39 info: try to create ws connection
+2025-04-26 10:58:39 info: try to create ws connection
+2025-04-26 11:08:39 info: try to create ws connection
+2025-04-26 11:18:39 info: try to create ws connection
+2025-04-26 11:28:39 info: try to create ws connection
+2025-04-26 11:38:39 info: try to create ws connection
+2025-04-26 11:48:39 info: try to create ws connection
+2025-04-26 11:58:39 info: try to create ws connection
+2025-04-26 12:08:39 info: try to create ws connection
+2025-04-26 12:18:39 info: try to create ws connection
+2025-04-26 12:28:39 info: try to create ws connection
+2025-04-26 12:38:39 info: try to create ws connection
+2025-04-26 12:48:39 info: try to create ws connection
+2025-04-26 12:58:39 info: try to create ws connection
+2025-04-26 13:08:39 info: try to create ws connection
+2025-04-26 13:18:39 info: try to create ws connection
+2025-04-26 13:28:39 info: try to create ws connection
+2025-04-26 13:38:39 info: try to create ws connection
+2025-04-26 13:48:39 info: try to create ws connection
+2025-04-26 13:58:39 info: try to create ws connection
+2025-04-26 14:08:39 info: try to create ws connection
+2025-04-26 14:18:39 info: try to create ws connection
+2025-04-26 14:28:39 info: try to create ws connection
+2025-04-26 14:38:39 info: try to create ws connection
+2025-04-26 14:48:39 info: try to create ws connection
+2025-04-26 14:58:39 info: try to create ws connection
+2025-04-26 15:08:39 info: try to create ws connection
+2025-04-26 15:18:39 info: try to create ws connection
+2025-04-26 15:28:39 info: try to create ws connection
+2025-04-26 15:38:39 info: try to create ws connection
+2025-04-26 15:48:39 info: try to create ws connection
+2025-04-26 15:58:39 info: try to create ws connection
+2025-04-26 16:08:39 info: try to create ws connection
+2025-04-26 16:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-26 16:18:39 info: try to create ws connection
+2025-04-26 16:28:39 info: try to create ws connection
+2025-04-26 16:38:39 info: try to create ws connection
+2025-04-26 16:48:39 info: try to create ws connection
+2025-04-26 16:58:39 info: try to create ws connection
+2025-04-26 17:08:39 info: try to create ws connection
+2025-04-26 17:18:39 info: try to create ws connection
+2025-04-26 17:28:39 info: try to create ws connection
+2025-04-26 17:38:39 info: try to create ws connection
+2025-04-26 17:48:39 info: try to create ws connection
+2025-04-26 17:58:39 info: try to create ws connection
+2025-04-26 18:08:39 info: try to create ws connection
+2025-04-26 18:18:39 info: try to create ws connection
+2025-04-26 18:28:39 info: try to create ws connection
+2025-04-26 18:38:39 info: try to create ws connection
+2025-04-26 18:48:39 info: try to create ws connection
+2025-04-26 18:58:39 info: try to create ws connection
+2025-04-26 19:08:39 info: try to create ws connection
+2025-04-26 19:18:39 info: try to create ws connection
+2025-04-26 19:28:39 info: try to create ws connection
+2025-04-26 19:38:39 info: try to create ws connection
+2025-04-26 19:48:39 info: try to create ws connection
+2025-04-26 19:58:39 info: try to create ws connection
+2025-04-26 20:08:39 info: try to create ws connection
+2025-04-26 20:18:39 info: try to create ws connection
+2025-04-26 20:28:39 info: try to create ws connection
+2025-04-26 20:38:39 info: try to create ws connection
+2025-04-26 20:48:39 info: try to create ws connection
+2025-04-26 20:58:39 info: try to create ws connection
+2025-04-26 21:08:39 info: try to create ws connection
+2025-04-26 21:18:39 info: try to create ws connection
+2025-04-26 21:28:39 info: try to create ws connection
+2025-04-26 21:38:39 info: try to create ws connection
+2025-04-26 21:48:39 info: try to create ws connection
+2025-04-26 21:58:39 info: try to create ws connection
+2025-04-26 22:08:39 info: try to create ws connection
+2025-04-26 22:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-26 22:18:39 info: try to create ws connection
+2025-04-26 22:28:39 info: try to create ws connection
+2025-04-26 22:38:39 info: try to create ws connection
+2025-04-26 22:48:39 info: try to create ws connection
+2025-04-26 22:58:39 info: try to create ws connection
+2025-04-26 23:08:39 info: try to create ws connection
+2025-04-26 23:18:39 info: try to create ws connection
+2025-04-26 23:28:39 info: try to create ws connection
+2025-04-26 23:38:39 info: try to create ws connection
+2025-04-26 23:48:39 info: try to create ws connection
+2025-04-26 23:58:39 info: try to create ws connection
+2025-04-27 00:08:39 info: try to create ws connection
+2025-04-27 00:18:39 info: try to create ws connection
+2025-04-27 00:28:39 info: try to create ws connection
+2025-04-27 00:38:39 info: try to create ws connection
+2025-04-27 00:48:39 info: try to create ws connection
+2025-04-27 00:58:39 info: try to create ws connection
+2025-04-27 01:08:39 info: try to create ws connection
+2025-04-27 01:18:39 info: try to create ws connection
+2025-04-27 01:28:39 info: try to create ws connection
+2025-04-27 01:38:39 info: try to create ws connection
+2025-04-27 01:48:39 info: try to create ws connection
+2025-04-27 01:58:39 info: try to create ws connection
+2025-04-27 02:08:39 info: try to create ws connection
+2025-04-27 02:18:39 info: try to create ws connection
+2025-04-27 02:28:39 info: try to create ws connection
+2025-04-27 02:38:39 info: try to create ws connection
+2025-04-27 02:48:39 info: try to create ws connection
+2025-04-27 02:58:39 info: try to create ws connection
+2025-04-27 03:08:39 info: try to create ws connection
+2025-04-27 03:18:39 info: try to create ws connection
+2025-04-27 03:28:39 info: try to create ws connection
+2025-04-27 03:38:39 info: try to create ws connection
+2025-04-27 03:48:39 info: try to create ws connection
+2025-04-27 03:58:39 info: try to create ws connection
+2025-04-27 04:08:39 info: try to create ws connection
+2025-04-27 04:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-27 04:18:39 info: try to create ws connection
+2025-04-27 04:28:39 info: try to create ws connection
+2025-04-27 04:38:39 info: try to create ws connection
+2025-04-27 04:48:39 info: try to create ws connection
+2025-04-27 04:58:39 info: try to create ws connection
+2025-04-27 05:08:39 info: try to create ws connection
+2025-04-27 05:18:39 info: try to create ws connection
+2025-04-27 05:28:39 info: try to create ws connection
+2025-04-27 05:38:39 info: try to create ws connection
+2025-04-27 05:48:39 info: try to create ws connection
+2025-04-27 05:58:39 info: try to create ws connection
+2025-04-27 06:08:39 info: try to create ws connection
+2025-04-27 06:18:39 info: try to create ws connection
+2025-04-27 06:28:39 info: try to create ws connection
+2025-04-27 06:38:39 info: try to create ws connection
+2025-04-27 06:48:39 info: try to create ws connection
+2025-04-27 06:58:39 info: try to create ws connection
+2025-04-27 07:08:39 info: try to create ws connection
+2025-04-27 07:18:39 info: try to create ws connection
+2025-04-27 07:28:39 info: try to create ws connection
+2025-04-27 07:38:39 info: try to create ws connection
+2025-04-27 07:48:39 info: try to create ws connection
+2025-04-27 07:58:39 info: try to create ws connection
+2025-04-27 08:08:39 info: try to create ws connection
+2025-04-27 08:18:39 info: try to create ws connection
+2025-04-27 08:28:39 info: try to create ws connection
+2025-04-27 08:38:39 info: try to create ws connection
+2025-04-27 08:48:39 info: try to create ws connection
+2025-04-27 08:58:39 info: try to create ws connection
+2025-04-27 09:08:39 info: try to create ws connection
+2025-04-27 09:18:39 info: try to create ws connection
+2025-04-27 09:28:39 info: try to create ws connection
+2025-04-27 09:38:39 info: try to create ws connection
+2025-04-27 09:48:39 info: try to create ws connection
+2025-04-27 09:58:39 info: try to create ws connection
+2025-04-27 10:08:39 info: try to create ws connection
+2025-04-27 10:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-27 10:18:39 info: try to create ws connection
+2025-04-27 10:28:39 info: try to create ws connection
+2025-04-27 10:38:39 info: try to create ws connection
+2025-04-27 10:48:39 info: try to create ws connection
+2025-04-27 10:58:39 info: try to create ws connection
+2025-04-27 11:08:39 info: try to create ws connection
+2025-04-27 11:18:39 info: try to create ws connection
+2025-04-27 11:28:39 info: try to create ws connection
+2025-04-27 11:38:39 info: try to create ws connection
+2025-04-27 11:48:39 info: try to create ws connection
+2025-04-27 11:58:39 info: try to create ws connection
+2025-04-27 12:08:39 info: try to create ws connection
+2025-04-27 12:18:39 info: try to create ws connection
+2025-04-27 12:28:39 info: try to create ws connection
+2025-04-27 12:38:39 info: try to create ws connection
+2025-04-27 12:48:39 info: try to create ws connection
+2025-04-27 12:58:39 info: try to create ws connection
+2025-04-27 13:08:39 info: try to create ws connection
+2025-04-27 13:18:39 info: try to create ws connection
+2025-04-27 13:28:39 info: try to create ws connection
+2025-04-27 13:38:39 info: try to create ws connection
+2025-04-27 13:48:39 info: try to create ws connection
+2025-04-27 13:58:39 info: try to create ws connection
+2025-04-27 14:08:39 info: try to create ws connection
+2025-04-27 14:18:39 info: try to create ws connection
+2025-04-27 14:28:39 info: try to create ws connection
+2025-04-27 14:38:39 info: try to create ws connection
+2025-04-27 14:48:39 info: try to create ws connection
+2025-04-27 14:58:39 info: try to create ws connection
+2025-04-27 15:08:39 info: try to create ws connection
+2025-04-27 15:18:39 info: try to create ws connection
+2025-04-27 15:28:39 info: try to create ws connection
+2025-04-27 15:38:39 info: try to create ws connection
+2025-04-27 15:48:39 info: try to create ws connection
+2025-04-27 15:58:39 info: try to create ws connection
+2025-04-27 16:08:39 info: try to create ws connection
+2025-04-27 16:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-27 16:18:39 info: try to create ws connection
+2025-04-27 16:28:39 info: try to create ws connection
+2025-04-27 16:38:39 info: try to create ws connection
+2025-04-27 16:48:39 info: try to create ws connection
+2025-04-27 16:58:39 info: try to create ws connection
+2025-04-27 17:08:39 info: try to create ws connection
+2025-04-27 17:18:39 info: try to create ws connection
+2025-04-27 17:28:39 info: try to create ws connection
+2025-04-27 17:38:39 info: try to create ws connection
+2025-04-27 17:48:39 info: try to create ws connection
+2025-04-27 17:58:39 info: try to create ws connection
+2025-04-27 18:08:39 info: try to create ws connection
+2025-04-27 18:18:39 info: try to create ws connection
+2025-04-27 18:28:39 info: try to create ws connection
+2025-04-27 18:38:39 info: try to create ws connection
+2025-04-27 18:48:39 info: try to create ws connection
+2025-04-27 18:58:39 info: try to create ws connection
+2025-04-27 19:08:39 info: try to create ws connection
+2025-04-27 19:18:39 info: try to create ws connection
+2025-04-27 19:28:39 info: try to create ws connection
+2025-04-27 19:38:39 info: try to create ws connection
+2025-04-27 19:48:39 info: try to create ws connection
+2025-04-27 19:58:39 info: try to create ws connection
+2025-04-27 20:08:39 info: try to create ws connection
+2025-04-27 20:18:39 info: try to create ws connection
+2025-04-27 20:28:39 info: try to create ws connection
+2025-04-27 20:38:39 info: try to create ws connection
+2025-04-27 20:48:39 info: try to create ws connection
+2025-04-27 20:58:39 info: try to create ws connection
+2025-04-27 21:08:39 info: try to create ws connection
+2025-04-27 21:18:39 info: try to create ws connection
+2025-04-27 21:28:39 info: try to create ws connection
+2025-04-27 21:38:39 info: try to create ws connection
+2025-04-27 21:48:39 info: try to create ws connection
+2025-04-27 21:58:39 info: try to create ws connection
+2025-04-27 22:08:39 info: try to create ws connection
+2025-04-27 22:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-27 22:18:39 info: try to create ws connection
+2025-04-27 22:28:39 info: try to create ws connection
+2025-04-27 22:38:39 info: try to create ws connection
+2025-04-27 22:48:39 info: try to create ws connection
+2025-04-27 22:58:39 info: try to create ws connection
+2025-04-27 23:08:39 info: try to create ws connection
+2025-04-27 23:18:39 info: try to create ws connection
+2025-04-27 23:28:39 info: try to create ws connection
+2025-04-27 23:38:39 info: try to create ws connection
+2025-04-27 23:48:39 info: try to create ws connection
+2025-04-27 23:58:39 info: try to create ws connection
+2025-04-28 00:08:39 info: try to create ws connection
+2025-04-28 00:18:39 info: try to create ws connection
+2025-04-28 00:28:39 info: try to create ws connection
+2025-04-28 00:38:39 info: try to create ws connection
+2025-04-28 00:48:39 info: try to create ws connection
+2025-04-28 00:58:39 info: try to create ws connection
+2025-04-28 01:08:39 info: try to create ws connection
+2025-04-28 01:18:39 info: try to create ws connection
+2025-04-28 01:28:39 info: try to create ws connection
+2025-04-28 01:38:39 info: try to create ws connection
+2025-04-28 01:48:39 info: try to create ws connection
+2025-04-28 01:58:39 info: try to create ws connection
+2025-04-28 02:08:39 info: try to create ws connection
+2025-04-28 02:18:39 info: try to create ws connection
+2025-04-28 02:28:39 info: try to create ws connection
+2025-04-28 02:38:39 info: try to create ws connection
+2025-04-28 02:48:39 info: try to create ws connection
+2025-04-28 02:58:39 info: try to create ws connection
+2025-04-28 03:08:39 info: try to create ws connection
+2025-04-28 03:18:39 info: try to create ws connection
+2025-04-28 03:18:46 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-28 03:28:39 info: try to create ws connection
+2025-04-28 03:38:39 info: try to create ws connection
+2025-04-28 03:48:39 info: try to create ws connection
+2025-04-28 03:58:39 info: try to create ws connection
+2025-04-28 04:08:39 info: try to create ws connection
+2025-04-28 04:18:39 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-28 04:18:39 info: try to create ws connection
+2025-04-28 04:28:39 info: try to create ws connection
+2025-04-28 04:38:39 info: try to create ws connection
+2025-04-28 04:48:39 info: try to create ws connection
+2025-04-28 04:58:39 info: try to create ws connection
+2025-04-28 05:08:39 info: try to create ws connection
+2025-04-28 05:18:39 info: try to create ws connection
+2025-04-28 05:28:39 info: try to create ws connection
+2025-04-28 05:38:39 info: try to create ws connection
+2025-04-28 05:48:39 info: try to create ws connection
+2025-04-28 05:58:39 info: try to create ws connection
+2025-04-29 23:43:05 info: Lingma [version: 2.3.0, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-04-29 23:43:05 info: Congratulations, "Lingma" is now active!
+2025-04-29 23:43:05 info: check exist binary path, no need update.
+2025-04-29 23:43:06 info: lingma try to connect to language server.
+2025-04-29 23:43:06 info: try to create ws connection
+2025-04-29 23:43:06 info: lingma connected to language server successfully.
+2025-04-29 23:43:08 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-29 23:43:48 info: try to create ws connection
+2025-04-29 23:53:04 info: try to create ws connection
+2025-04-29 23:53:48 info: try to create ws connection
+2025-04-30 00:03:04 info: try to create ws connection
+2025-04-30 00:03:48 info: try to create ws connection
+2025-04-30 00:13:04 info: try to create ws connection
+2025-04-30 00:13:48 info: try to create ws connection
+2025-04-30 00:23:04 info: try to create ws connection
+2025-04-30 00:23:48 info: try to create ws connection
+2025-04-30 00:33:04 info: try to create ws connection
+2025-04-30 00:33:48 info: try to create ws connection
+2025-04-30 00:43:04 info: try to create ws connection
+2025-04-30 00:43:48 info: try to create ws connection
+2025-04-30 00:53:04 info: try to create ws connection
+2025-04-30 00:53:48 info: try to create ws connection
+2025-04-30 01:03:04 info: try to create ws connection
+2025-04-30 01:03:48 info: try to create ws connection
+2025-04-30 01:13:04 info: try to create ws connection
+2025-04-30 01:13:48 info: try to create ws connection
+2025-04-30 01:23:04 info: try to create ws connection
+2025-04-30 01:23:48 info: try to create ws connection
+2025-04-30 01:33:04 info: try to create ws connection
+2025-04-30 01:33:48 info: try to create ws connection
+2025-04-30 01:43:04 info: try to create ws connection
+2025-04-30 01:43:48 info: try to create ws connection
+2025-04-30 01:53:04 info: try to create ws connection
+2025-04-30 01:53:48 info: try to create ws connection
+2025-04-30 02:03:04 info: try to create ws connection
+2025-04-30 02:03:48 info: try to create ws connection
+2025-04-30 02:13:04 info: try to create ws connection
+2025-04-30 02:13:48 info: try to create ws connection
+2025-04-30 02:23:04 info: try to create ws connection
+2025-04-30 02:23:48 info: try to create ws connection
+2025-04-30 02:33:04 info: try to create ws connection
+2025-04-30 02:33:48 info: try to create ws connection
+2025-04-30 02:43:04 info: try to create ws connection
+2025-04-30 02:43:48 info: try to create ws connection
+2025-04-30 02:53:04 info: try to create ws connection
+2025-04-30 02:53:48 info: try to create ws connection
+2025-04-30 03:03:04 info: try to create ws connection
+2025-04-30 03:13:04 info: try to create ws connection
+2025-04-30 03:23:04 info: try to create ws connection
+2025-04-30 03:33:04 info: try to create ws connection
+2025-04-30 03:43:04 info: try to create ws connection
+2025-04-30 03:53:04 info: try to create ws connection
+2025-04-30 04:03:04 info: try to create ws connection
+2025-04-30 04:13:04 info: try to create ws connection
+2025-04-30 04:23:04 info: try to create ws connection
+2025-04-30 04:33:04 info: try to create ws connection
+2025-04-30 04:43:04 info: try to create ws connection
+2025-04-30 04:53:04 info: try to create ws connection
+2025-04-30 05:03:04 info: try to create ws connection
+2025-04-30 05:13:04 info: try to create ws connection
+2025-04-30 05:23:04 info: try to create ws connection
+2025-04-30 05:33:04 info: try to create ws connection
+2025-04-30 05:43:04 info: try to create ws connection
+2025-04-30 05:43:05 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-30 05:53:04 info: try to create ws connection
+2025-04-30 06:03:04 info: try to create ws connection
+2025-04-30 06:13:04 info: try to create ws connection
+2025-04-30 06:23:04 info: try to create ws connection
+2025-04-30 06:33:04 info: try to create ws connection
+2025-04-30 06:43:04 info: try to create ws connection
+2025-04-30 06:53:04 info: try to create ws connection
+2025-04-30 07:03:04 info: try to create ws connection
+2025-04-30 07:13:04 info: try to create ws connection
+2025-04-30 07:23:04 info: try to create ws connection
+2025-04-30 07:33:04 info: try to create ws connection
+2025-04-30 07:43:04 info: try to create ws connection
+2025-04-30 07:53:04 info: try to create ws connection
+2025-04-30 08:03:04 info: try to create ws connection
+2025-04-30 08:13:04 info: try to create ws connection
+2025-04-30 08:23:04 info: try to create ws connection
+2025-04-30 08:33:04 info: try to create ws connection
+2025-04-30 08:43:04 info: try to create ws connection
+2025-04-30 08:53:04 info: try to create ws connection
+2025-04-30 09:03:04 info: try to create ws connection
+2025-04-30 09:13:04 info: try to create ws connection
+2025-04-30 09:23:04 info: try to create ws connection
+2025-04-30 09:33:04 info: try to create ws connection
+2025-04-30 09:43:04 info: try to create ws connection
+2025-04-30 09:53:04 info: try to create ws connection
+2025-04-30 10:03:04 info: try to create ws connection
+2025-04-30 10:13:04 info: try to create ws connection
+2025-04-30 10:23:04 info: try to create ws connection
+2025-04-30 10:33:04 info: try to create ws connection
+2025-04-30 10:43:04 info: try to create ws connection
+2025-04-30 10:53:04 info: try to create ws connection
+2025-04-30 11:03:04 info: try to create ws connection
+2025-04-30 11:13:04 info: try to create ws connection
+2025-04-30 11:23:04 info: try to create ws connection
+2025-04-30 11:33:04 info: try to create ws connection
+2025-04-30 11:43:04 info: try to create ws connection
+2025-04-30 11:43:05 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-30 11:53:04 info: try to create ws connection
+2025-04-30 12:03:04 info: try to create ws connection
+2025-04-30 12:13:04 info: try to create ws connection
+2025-04-30 12:23:04 info: try to create ws connection
+2025-04-30 12:33:04 info: try to create ws connection
+2025-04-30 12:43:04 info: try to create ws connection
+2025-04-30 12:53:04 info: try to create ws connection
+2025-04-30 13:03:04 info: try to create ws connection
+2025-04-30 13:13:04 info: try to create ws connection
+2025-04-30 13:23:04 info: try to create ws connection
+2025-04-30 13:33:04 info: try to create ws connection
+2025-04-30 13:43:04 info: try to create ws connection
+2025-04-30 13:53:04 info: try to create ws connection
+2025-04-30 14:03:04 info: try to create ws connection
+2025-04-30 14:13:04 info: try to create ws connection
+2025-04-30 14:23:04 info: try to create ws connection
+2025-04-30 14:33:04 info: try to create ws connection
+2025-04-30 14:43:04 info: try to create ws connection
+2025-04-30 14:53:04 info: try to create ws connection
+2025-04-30 15:03:04 info: try to create ws connection
+2025-04-30 15:13:04 info: try to create ws connection
+2025-04-30 15:23:04 info: try to create ws connection
+2025-04-30 15:33:04 info: try to create ws connection
+2025-04-30 15:43:04 info: try to create ws connection
+2025-04-30 15:53:04 info: try to create ws connection
+2025-04-30 16:03:04 info: try to create ws connection
+2025-04-30 16:13:04 info: try to create ws connection
+2025-04-30 16:23:04 info: try to create ws connection
+2025-04-30 16:33:04 info: try to create ws connection
+2025-04-30 16:43:04 info: try to create ws connection
+2025-04-30 16:53:04 info: try to create ws connection
+2025-04-30 17:03:04 info: try to create ws connection
+2025-04-30 17:13:04 info: try to create ws connection
+2025-04-30 17:23:04 info: try to create ws connection
+2025-04-30 17:33:04 info: try to create ws connection
+2025-04-30 17:43:04 info: try to create ws connection
+2025-04-30 17:43:05 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-04-30 17:53:04 info: try to create ws connection
+2025-04-30 18:03:04 info: try to create ws connection
+2025-04-30 18:13:04 info: try to create ws connection
+2025-04-30 18:23:04 info: try to create ws connection
+2025-04-30 18:33:04 info: try to create ws connection
+2025-04-30 18:43:04 info: try to create ws connection
+2025-04-30 18:53:04 info: try to create ws connection
+2025-04-30 19:03:04 info: try to create ws connection
+2025-04-30 19:13:04 info: try to create ws connection
+2025-04-30 19:23:04 info: try to create ws connection
+2025-04-30 19:33:04 info: try to create ws connection
+2025-04-30 19:43:04 info: try to create ws connection
+2025-04-30 19:53:04 info: try to create ws connection
+2025-04-30 20:03:04 info: try to create ws connection
+2025-05-07 11:07:04 info: Lingma [version: 2.3.0, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-05-07 11:07:04 info: Congratulations, "Lingma" is now active!
+2025-05-07 11:07:04 info: check exist binary path, no need update.
+2025-05-07 11:07:05 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-05-07 11:07:05 info: read cosy info empty, start lingma process now. 
+2025-05-07 11:07:05 info: try to start lingma process.
+2025-05-07 11:07:05 info: current lingma version is 2.3.0, retry times: 0
+2025-05-07 11:07:05 info: start lingma process successfully.
+2025-05-07 11:07:08 info: lingma try to connect to language server.
+2025-05-07 11:07:08 info: try to create ws connection
+2025-05-07 11:07:08 info: lingma connected to language server successfully.
+2025-05-07 11:07:08 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-07 18:56:08 info: Lingma [version: 2.5.2, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-05-07 18:56:08 info: Congratulations, "Lingma" is now active!
+2025-05-07 18:56:08 info: start update lingma binary: /home/mmc/.vscode-server/extensions/alibaba-cloud.tongyi-lingma-2.5.2/dist
+2025-05-07 18:56:08 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-05-07 18:56:08 info: read lingma info. pid=undefined
+2025-05-07 18:56:08 info: unzipLingma: start
+2025-05-07 18:56:11 info: unzip onclose
+2025-05-07 18:56:11 info: unzip onfinish
+2025-05-07 18:56:11 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-05-07 18:56:11 info: read cosy info empty, start lingma process now. 
+2025-05-07 18:56:11 info: try to start lingma process.
+2025-05-07 18:56:11 info: current lingma version is 2.5.2, retry times: 0
+2025-05-07 18:56:11 info: start lingma process successfully.
+2025-05-07 18:56:14 info: lingma try to connect to language server.
+2025-05-07 18:56:14 info: try to create ws connection
+2025-05-07 18:56:14 info: lingma connected to language server successfully.
+2025-05-07 18:56:15 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-07 19:06:06 info: try to create ws connection
+2025-05-07 19:16:06 info: try to create ws connection
+2025-05-07 19:26:06 info: try to create ws connection
+2025-05-07 19:36:06 info: try to create ws connection
+2025-05-07 19:46:06 info: try to create ws connection
+2025-05-07 19:56:06 info: try to create ws connection
+2025-05-07 20:06:06 info: try to create ws connection
+2025-05-07 20:16:06 info: try to create ws connection
+2025-05-07 20:26:06 info: try to create ws connection
+2025-05-07 20:36:06 info: try to create ws connection
+2025-05-07 20:46:06 info: try to create ws connection
+2025-05-07 20:56:06 info: try to create ws connection
+2025-05-07 21:06:06 info: try to create ws connection
+2025-05-07 21:16:06 info: try to create ws connection
+2025-05-07 21:23:04 error: Cosy InlineCompletion error. 
+2025-05-07 21:26:06 info: try to create ws connection
+2025-05-07 21:36:06 info: try to create ws connection
+2025-05-07 21:46:06 info: try to create ws connection
+2025-05-07 21:56:06 info: try to create ws connection
+2025-05-07 22:06:06 info: try to create ws connection
+2025-05-07 22:16:06 info: try to create ws connection
+2025-05-07 22:26:06 info: try to create ws connection
+2025-05-07 22:36:06 info: try to create ws connection
+2025-05-07 22:46:06 info: try to create ws connection
+2025-05-07 22:56:06 info: try to create ws connection
+2025-05-07 23:06:06 info: try to create ws connection
+2025-05-07 23:16:06 info: try to create ws connection
+2025-05-07 23:26:06 info: try to create ws connection
+2025-05-07 23:36:06 info: try to create ws connection
+2025-05-07 23:46:06 info: try to create ws connection
+2025-05-07 23:56:06 info: try to create ws connection
+2025-05-08 00:06:06 info: try to create ws connection
+2025-05-08 00:16:06 info: try to create ws connection
+2025-05-08 00:26:06 info: try to create ws connection
+2025-05-08 00:36:06 info: try to create ws connection
+2025-05-08 00:46:06 info: try to create ws connection
+2025-05-08 00:56:06 info: try to create ws connection
+2025-05-08 00:56:07 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-08 01:06:06 info: try to create ws connection
+2025-05-08 01:16:06 info: try to create ws connection
+2025-05-08 01:26:06 info: try to create ws connection
+2025-05-08 01:36:06 info: try to create ws connection
+2025-05-08 01:46:06 info: try to create ws connection
+2025-05-08 01:56:06 info: try to create ws connection
+2025-05-08 02:06:06 info: try to create ws connection
+2025-05-08 02:16:06 info: try to create ws connection
+2025-05-08 02:26:06 info: try to create ws connection
+2025-05-08 02:36:06 info: try to create ws connection
+2025-05-08 02:46:06 info: try to create ws connection
+2025-05-08 02:56:06 info: try to create ws connection
+2025-05-08 03:06:06 info: try to create ws connection
+2025-05-08 03:16:06 info: try to create ws connection
+2025-05-08 03:26:06 info: try to create ws connection
+2025-05-08 03:36:06 info: try to create ws connection
+2025-05-08 03:46:06 info: try to create ws connection
+2025-05-08 03:56:06 info: try to create ws connection
+2025-05-08 04:06:06 info: try to create ws connection
+2025-05-08 04:16:06 info: try to create ws connection
+2025-05-08 04:26:06 info: try to create ws connection
+2025-05-08 04:36:06 info: try to create ws connection
+2025-05-08 04:46:06 info: try to create ws connection
+2025-05-08 04:56:06 info: try to create ws connection
+2025-05-08 05:06:06 info: try to create ws connection
+2025-05-08 05:16:06 info: try to create ws connection
+2025-05-08 05:26:06 info: try to create ws connection
+2025-05-08 05:36:06 info: try to create ws connection
+2025-05-08 05:46:06 info: try to create ws connection
+2025-05-08 05:56:06 info: try to create ws connection
+2025-05-08 06:06:06 info: try to create ws connection
+2025-05-08 06:16:06 info: try to create ws connection
+2025-05-08 06:26:06 info: try to create ws connection
+2025-05-08 06:36:06 info: try to create ws connection
+2025-05-08 06:46:06 info: try to create ws connection
+2025-05-08 06:56:06 info: try to create ws connection
+2025-05-08 06:56:07 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-08 07:06:06 info: try to create ws connection
+2025-05-08 07:16:06 info: try to create ws connection
+2025-05-08 07:26:06 info: try to create ws connection
+2025-05-08 07:36:06 info: try to create ws connection
+2025-05-08 07:46:07 info: try to create ws connection
+2025-05-08 07:56:07 info: try to create ws connection
+2025-05-08 08:06:07 info: try to create ws connection
+2025-05-08 08:16:07 info: try to create ws connection
+2025-05-08 08:26:07 info: try to create ws connection
+2025-05-08 08:36:07 info: try to create ws connection
+2025-05-08 08:46:07 info: try to create ws connection
+2025-05-08 08:56:07 info: try to create ws connection
+2025-05-08 09:06:07 info: try to create ws connection
+2025-05-08 09:16:07 info: try to create ws connection
+2025-05-08 09:26:07 info: try to create ws connection
+2025-05-08 09:36:07 info: try to create ws connection
+2025-05-08 09:46:07 info: try to create ws connection
+2025-05-08 09:56:07 info: try to create ws connection
+2025-05-08 10:06:07 info: try to create ws connection
+2025-05-08 10:16:07 info: try to create ws connection
+2025-05-08 10:26:07 info: try to create ws connection
+2025-05-08 10:36:07 info: try to create ws connection
+2025-05-08 10:46:07 info: try to create ws connection
+2025-05-08 10:56:07 info: try to create ws connection
+2025-05-08 11:06:07 info: try to create ws connection
+2025-05-08 11:16:07 info: try to create ws connection
+2025-05-08 11:26:07 info: try to create ws connection
+2025-05-08 11:36:07 info: try to create ws connection
+2025-05-08 11:46:07 info: try to create ws connection
+2025-05-08 11:56:07 info: try to create ws connection
+2025-05-08 12:06:07 info: try to create ws connection
+2025-05-08 12:16:07 info: try to create ws connection
+2025-05-08 12:26:07 info: try to create ws connection
+2025-05-08 12:36:07 info: try to create ws connection
+2025-05-08 12:46:07 info: try to create ws connection
+2025-05-08 12:56:07 info: try to create ws connection
+2025-05-08 12:56:07 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-08 13:06:07 info: try to create ws connection
+2025-05-08 13:16:07 info: try to create ws connection
+2025-05-08 13:26:07 info: try to create ws connection
+2025-05-08 13:36:07 info: try to create ws connection
+2025-05-08 13:46:07 info: try to create ws connection
+2025-05-08 13:56:07 info: try to create ws connection
+2025-05-08 14:06:07 info: try to create ws connection
+2025-05-08 14:16:07 info: try to create ws connection
+2025-05-08 14:26:07 info: try to create ws connection
+2025-05-08 14:36:07 info: try to create ws connection
+2025-05-08 14:46:07 info: try to create ws connection
+2025-05-08 14:56:07 info: try to create ws connection
+2025-05-08 15:06:07 info: try to create ws connection
+2025-05-08 15:16:07 info: try to create ws connection
+2025-05-08 15:26:07 info: try to create ws connection
+2025-05-08 15:36:07 info: try to create ws connection
+2025-05-08 15:46:07 info: try to create ws connection
+2025-05-08 15:56:07 info: try to create ws connection
+2025-05-08 16:06:07 info: try to create ws connection
+2025-05-08 16:16:07 info: try to create ws connection
+2025-05-08 16:26:07 info: try to create ws connection
+2025-05-08 16:36:07 info: try to create ws connection
+2025-05-08 16:46:07 info: try to create ws connection
+2025-05-08 16:56:07 info: try to create ws connection
+2025-05-08 17:06:07 info: try to create ws connection
+2025-05-08 17:16:07 info: try to create ws connection
+2025-05-08 17:26:07 info: try to create ws connection
+2025-05-08 17:36:07 info: try to create ws connection
+2025-05-08 17:46:07 info: try to create ws connection
+2025-05-08 17:56:07 info: try to create ws connection
+2025-05-08 18:06:07 info: try to create ws connection
+2025-05-08 18:16:07 info: try to create ws connection
+2025-05-08 18:26:07 info: try to create ws connection
+2025-05-08 18:36:07 info: try to create ws connection
+2025-05-08 18:46:07 info: try to create ws connection
+2025-05-08 18:56:07 info: try to create ws connection
+2025-05-08 18:56:07 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-08 19:06:07 info: try to create ws connection
+2025-05-08 19:16:07 info: try to create ws connection
+2025-05-08 19:26:07 info: try to create ws connection
+2025-05-08 19:36:07 info: try to create ws connection
+2025-05-08 19:46:07 info: try to create ws connection
+2025-05-08 19:56:07 info: try to create ws connection
+2025-05-08 20:06:07 info: try to create ws connection
+2025-05-08 20:16:07 info: try to create ws connection
+2025-05-08 20:26:07 info: try to create ws connection
+2025-05-08 20:36:07 info: try to create ws connection
+2025-05-08 20:46:07 info: try to create ws connection
+2025-05-08 20:56:07 info: try to create ws connection
+2025-05-08 21:06:07 info: try to create ws connection
+2025-05-08 21:16:07 info: try to create ws connection
+2025-05-08 21:26:07 info: try to create ws connection
+2025-05-08 21:36:07 info: try to create ws connection
+2025-05-08 21:46:07 info: try to create ws connection
+2025-05-08 21:56:07 info: try to create ws connection
+2025-05-08 22:06:07 info: try to create ws connection
+2025-05-08 22:16:07 info: try to create ws connection
+2025-05-08 22:26:07 info: try to create ws connection
+2025-05-08 22:36:07 info: try to create ws connection
+2025-05-08 22:46:07 info: try to create ws connection
+2025-05-08 22:56:07 info: try to create ws connection
+2025-05-08 23:06:07 info: try to create ws connection
+2025-05-08 23:16:07 info: try to create ws connection
+2025-05-08 23:26:07 info: try to create ws connection
+2025-05-08 23:36:07 info: try to create ws connection
+2025-05-08 23:46:07 info: try to create ws connection
+2025-05-08 23:56:07 info: try to create ws connection
+2025-05-09 00:06:07 info: try to create ws connection
+2025-05-09 00:16:07 info: try to create ws connection
+2025-05-09 00:26:07 info: try to create ws connection
+2025-05-09 00:36:07 info: try to create ws connection
+2025-05-09 00:46:07 info: try to create ws connection
+2025-05-09 00:56:07 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-09 00:56:07 info: try to create ws connection
+2025-05-09 01:06:07 info: try to create ws connection
+2025-05-09 01:16:07 info: try to create ws connection
+2025-05-09 01:26:07 info: try to create ws connection
+2025-05-09 01:36:07 info: try to create ws connection
+2025-05-09 01:46:07 info: try to create ws connection
+2025-05-09 01:56:07 info: try to create ws connection
+2025-05-09 02:06:07 info: try to create ws connection
+2025-05-09 02:16:07 info: try to create ws connection
+2025-05-09 02:26:07 info: try to create ws connection
+2025-05-09 02:36:07 info: try to create ws connection
+2025-05-09 02:46:07 info: try to create ws connection
+2025-05-09 02:56:07 info: try to create ws connection
+2025-05-09 03:06:07 info: try to create ws connection
+2025-05-09 03:16:07 info: try to create ws connection
+2025-05-09 03:26:07 info: try to create ws connection
+2025-05-09 03:36:07 info: try to create ws connection
+2025-05-09 03:46:07 info: try to create ws connection
+2025-05-09 03:56:07 info: try to create ws connection
+2025-05-09 04:06:07 info: try to create ws connection
+2025-05-09 04:16:07 info: try to create ws connection
+2025-05-09 04:26:07 info: try to create ws connection
+2025-05-09 04:36:07 info: try to create ws connection
+2025-05-09 04:46:07 info: try to create ws connection
+2025-05-09 04:56:07 info: try to create ws connection
+2025-05-09 05:06:07 info: try to create ws connection
+2025-05-09 05:16:07 info: try to create ws connection
+2025-05-09 05:26:07 info: try to create ws connection
+2025-05-09 05:36:07 info: try to create ws connection
+2025-05-09 05:46:07 info: try to create ws connection
+2025-05-09 05:56:07 info: try to create ws connection
+2025-05-09 06:06:07 info: try to create ws connection
+2025-05-09 06:16:07 info: try to create ws connection
+2025-05-09 06:26:07 info: try to create ws connection
+2025-05-09 06:36:07 info: try to create ws connection
+2025-05-09 06:46:07 info: try to create ws connection
+2025-05-09 06:56:07 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-09 06:56:07 info: try to create ws connection
+2025-05-09 07:06:07 info: try to create ws connection
+2025-05-09 07:16:07 info: try to create ws connection
+2025-05-09 07:26:07 info: try to create ws connection
+2025-05-09 07:36:07 info: try to create ws connection
+2025-05-09 07:46:07 info: try to create ws connection
+2025-05-09 07:56:07 info: try to create ws connection
+2025-05-09 08:06:07 info: try to create ws connection
+2025-05-09 08:16:07 info: try to create ws connection
+2025-05-09 08:26:07 info: try to create ws connection
+2025-05-09 08:36:07 info: try to create ws connection
+2025-05-09 08:46:07 info: try to create ws connection
+2025-05-09 08:56:07 info: try to create ws connection
+2025-05-09 09:06:07 info: try to create ws connection
+2025-05-09 09:16:07 info: try to create ws connection
+2025-05-09 09:26:07 info: try to create ws connection
+2025-05-09 09:36:07 info: try to create ws connection
+2025-05-09 09:46:07 info: try to create ws connection
+2025-05-09 09:56:07 info: try to create ws connection
+2025-05-09 10:06:07 info: try to create ws connection
+2025-05-09 10:16:07 info: try to create ws connection
+2025-05-09 10:26:07 info: try to create ws connection
+2025-05-09 10:36:07 info: try to create ws connection
+2025-05-09 10:46:07 info: try to create ws connection
+2025-05-09 10:56:07 info: try to create ws connection
+2025-05-09 11:06:07 info: try to create ws connection
+2025-05-09 11:16:07 info: try to create ws connection
+2025-05-09 11:26:07 info: try to create ws connection
+2025-05-09 11:36:07 info: try to create ws connection
+2025-05-09 11:46:07 info: try to create ws connection
+2025-05-09 11:56:07 info: try to create ws connection
+2025-05-09 12:06:07 info: try to create ws connection
+2025-05-09 12:16:07 info: try to create ws connection
+2025-05-09 12:26:07 info: try to create ws connection
+2025-05-09 12:36:07 info: try to create ws connection
+2025-05-09 12:46:07 info: try to create ws connection
+2025-05-09 12:56:07 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-09 12:56:07 info: try to create ws connection
+2025-05-09 13:06:07 info: try to create ws connection
+2025-05-09 13:16:07 info: try to create ws connection
+2025-05-09 13:26:07 info: try to create ws connection
+2025-05-09 13:36:07 info: try to create ws connection
+2025-05-09 13:46:07 info: try to create ws connection
+2025-05-09 13:56:07 info: try to create ws connection
+2025-05-09 14:06:07 info: try to create ws connection
+2025-05-09 14:16:07 info: try to create ws connection
+2025-05-09 14:26:07 info: try to create ws connection
+2025-05-09 14:36:07 info: try to create ws connection
+2025-05-09 14:46:07 info: try to create ws connection
+2025-05-09 14:56:07 info: try to create ws connection
+2025-05-09 15:06:07 info: try to create ws connection
+2025-05-09 15:16:07 info: try to create ws connection
+2025-05-09 15:26:07 info: try to create ws connection
+2025-05-09 15:36:07 info: try to create ws connection
+2025-05-09 15:46:07 info: try to create ws connection
+2025-05-09 15:56:07 info: try to create ws connection
+2025-05-09 16:06:07 info: try to create ws connection
+2025-05-09 16:16:07 info: try to create ws connection
+2025-05-09 16:26:07 info: try to create ws connection
+2025-05-09 16:36:07 info: try to create ws connection
+2025-05-09 16:46:07 info: try to create ws connection
+2025-05-09 16:56:07 info: try to create ws connection
+2025-05-09 17:06:07 info: try to create ws connection
+2025-05-09 17:16:07 info: try to create ws connection
+2025-05-09 17:26:07 info: try to create ws connection
+2025-05-09 17:36:07 info: try to create ws connection
+2025-05-09 17:46:07 info: try to create ws connection
+2025-05-09 17:56:07 info: try to create ws connection
+2025-05-09 18:06:07 info: try to create ws connection
+2025-05-09 18:16:07 info: try to create ws connection
+2025-05-09 18:26:07 info: try to create ws connection
+2025-05-09 18:36:07 info: try to create ws connection
+2025-05-09 18:46:07 info: try to create ws connection
+2025-05-09 18:56:07 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-09 18:56:07 info: try to create ws connection
+2025-05-09 19:06:07 info: try to create ws connection
+2025-05-09 19:16:07 info: try to create ws connection
+2025-05-09 19:26:07 info: try to create ws connection
+2025-05-09 19:36:07 info: try to create ws connection
+2025-05-09 19:46:07 info: try to create ws connection
+2025-05-09 19:56:07 info: try to create ws connection
+2025-05-09 20:06:07 info: try to create ws connection
+2025-05-09 20:16:07 info: try to create ws connection
+2025-05-09 20:26:07 info: try to create ws connection
+2025-05-09 20:36:07 info: try to create ws connection
+2025-05-09 20:46:07 info: try to create ws connection
+2025-05-09 20:56:07 info: try to create ws connection
+2025-05-09 21:06:07 info: try to create ws connection
+2025-05-09 21:16:07 info: try to create ws connection
+2025-05-09 21:26:07 info: try to create ws connection
+2025-05-09 21:36:07 info: try to create ws connection
+2025-05-09 21:46:07 info: try to create ws connection
+2025-05-09 21:56:07 info: try to create ws connection
+2025-05-09 22:06:07 info: try to create ws connection
+2025-05-09 22:16:07 info: try to create ws connection
+2025-05-09 22:26:07 info: try to create ws connection
+2025-05-09 22:36:07 info: try to create ws connection
+2025-05-09 22:46:07 info: try to create ws connection
+2025-05-09 22:56:07 info: try to create ws connection
+2025-05-09 23:06:07 info: try to create ws connection
+2025-05-09 23:16:07 info: try to create ws connection
+2025-05-09 23:26:07 info: try to create ws connection
+2025-05-09 23:36:07 info: try to create ws connection
+2025-05-09 23:46:07 info: try to create ws connection
+2025-05-09 23:56:07 info: try to create ws connection
+2025-05-10 00:06:07 info: try to create ws connection
+2025-05-10 00:16:07 info: try to create ws connection
+2025-05-10 00:26:07 info: try to create ws connection
+2025-05-10 00:36:07 info: try to create ws connection
+2025-05-10 00:46:07 info: try to create ws connection
+2025-05-10 00:56:07 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-10 00:56:07 info: try to create ws connection
+2025-05-10 01:06:07 info: try to create ws connection
+2025-05-10 01:16:07 info: try to create ws connection
+2025-05-10 01:26:07 info: try to create ws connection
+2025-05-10 01:36:07 info: try to create ws connection
+2025-05-10 01:46:07 info: try to create ws connection
+2025-05-10 01:56:07 info: try to create ws connection
+2025-05-10 02:06:07 info: try to create ws connection
+2025-05-10 02:16:07 info: try to create ws connection
+2025-05-10 02:26:07 info: try to create ws connection
+2025-05-10 02:36:07 info: try to create ws connection
+2025-05-10 02:46:07 info: try to create ws connection
+2025-05-12 10:42:47 info: Lingma [version: 2.5.2, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-05-12 10:42:47 info: Congratulations, "Lingma" is now active!
+2025-05-12 10:42:48 info: check exist binary path, no need update.
+2025-05-12 10:42:50 info: lingma process[pid=52650, port=36510] check port not alive, start lingma process now.
+2025-05-12 10:42:50 info: try to start lingma process.
+2025-05-12 10:42:50 info: current lingma version is 2.5.2, retry times: 0
+2025-05-12 10:42:50 info: start lingma process successfully.
+2025-05-12 10:42:50 info: lingma process exit. pid=106001, code=0, signal=null
+2025-05-12 10:42:53 info: lingma try to connect to language server.
+2025-05-12 10:42:53 info: try to create ws connection
+2025-05-12 10:42:53 info: lingma connected to language server successfully.
+2025-05-12 10:42:54 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-12 10:47:35 info: try to create ws connection
+2025-05-12 10:52:43 info: try to create ws connection
+2025-05-12 10:57:35 info: try to create ws connection
+2025-05-12 11:02:43 info: try to create ws connection
+2025-05-12 11:07:35 info: try to create ws connection
+2025-05-12 11:12:43 info: try to create ws connection
+2025-05-12 11:17:35 info: try to create ws connection
+2025-05-12 11:17:41 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-12 11:17:41 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-12 11:22:43 info: try to create ws connection
+2025-05-12 11:27:35 info: try to create ws connection
+2025-05-12 11:32:43 info: try to create ws connection
+2025-05-12 11:37:35 info: try to create ws connection
+2025-05-12 11:42:43 info: try to create ws connection
+2025-05-12 11:47:35 info: try to create ws connection
+2025-05-12 11:52:43 info: try to create ws connection
+2025-05-12 11:57:35 info: try to create ws connection
+2025-05-12 12:02:43 info: try to create ws connection
+2025-05-12 12:07:35 info: try to create ws connection
+2025-05-12 12:12:43 info: try to create ws connection
+2025-05-12 12:17:35 info: try to create ws connection
+2025-05-12 12:22:43 info: try to create ws connection
+2025-05-12 12:27:35 info: try to create ws connection
+2025-05-12 12:32:43 info: try to create ws connection
+2025-05-12 12:37:35 info: try to create ws connection
+2025-05-12 12:42:43 info: try to create ws connection
+2025-05-12 12:47:35 info: try to create ws connection
+2025-05-12 12:52:43 info: try to create ws connection
+2025-05-12 12:57:35 info: try to create ws connection
+2025-05-12 13:02:43 info: try to create ws connection
+2025-05-12 13:07:35 info: try to create ws connection
+2025-05-12 13:12:43 info: try to create ws connection
+2025-05-12 13:17:35 info: try to create ws connection
+2025-05-12 13:22:43 info: try to create ws connection
+2025-05-12 13:27:35 info: try to create ws connection
+2025-05-12 13:32:43 info: try to create ws connection
+2025-05-12 13:37:35 info: try to create ws connection
+2025-05-12 13:42:43 info: try to create ws connection
+2025-05-12 13:47:35 info: try to create ws connection
+2025-05-12 13:52:43 info: try to create ws connection
+2025-05-12 13:57:35 info: try to create ws connection
+2025-05-12 14:02:43 info: try to create ws connection
+2025-05-12 14:12:43 info: try to create ws connection
+2025-05-12 14:22:43 info: try to create ws connection
+2025-05-12 14:32:43 info: try to create ws connection
+2025-05-12 14:42:43 info: try to create ws connection
+2025-05-12 14:52:43 info: try to create ws connection
+2025-05-12 15:02:43 info: try to create ws connection
+2025-05-12 15:12:43 info: try to create ws connection
+2025-05-12 15:22:43 info: try to create ws connection
+2025-05-12 15:32:43 info: try to create ws connection
+2025-05-12 15:42:43 info: try to create ws connection
+2025-05-12 15:52:43 info: try to create ws connection
+2025-05-12 16:02:43 info: try to create ws connection
+2025-05-12 16:12:43 info: try to create ws connection
+2025-05-12 16:22:43 info: try to create ws connection
+2025-05-12 16:32:43 info: try to create ws connection
+2025-05-12 16:42:43 info: try to create ws connection
+2025-05-12 16:42:43 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-12 16:52:43 info: try to create ws connection
+2025-05-12 17:02:43 info: try to create ws connection
+2025-05-12 17:12:43 info: try to create ws connection
+2025-05-12 17:22:43 info: try to create ws connection
+2025-05-12 17:32:43 info: try to create ws connection
+2025-05-12 17:42:43 info: try to create ws connection
+2025-05-12 17:52:43 info: try to create ws connection
+2025-05-12 18:02:43 info: try to create ws connection
+2025-05-12 18:12:43 info: try to create ws connection
+2025-05-12 18:22:43 info: try to create ws connection
+2025-05-12 18:32:43 info: try to create ws connection
+2025-05-12 18:42:43 info: try to create ws connection
+2025-05-12 18:52:43 info: try to create ws connection
+2025-05-12 19:02:43 info: try to create ws connection
+2025-05-12 19:12:43 info: try to create ws connection
+2025-05-12 19:22:43 info: try to create ws connection
+2025-05-12 19:32:43 info: try to create ws connection
+2025-05-12 19:42:43 info: try to create ws connection
+2025-05-12 19:52:43 info: try to create ws connection
+2025-05-12 20:02:43 info: try to create ws connection
+2025-05-12 20:12:43 info: try to create ws connection
+2025-05-12 20:22:43 info: try to create ws connection
+2025-05-12 20:32:43 info: try to create ws connection
+2025-05-12 20:42:43 info: try to create ws connection
+2025-05-12 20:52:43 info: try to create ws connection
+2025-05-12 21:02:43 info: try to create ws connection
+2025-05-12 21:12:43 info: try to create ws connection
+2025-05-12 21:22:43 info: try to create ws connection
+2025-05-12 21:32:43 info: try to create ws connection
+2025-05-13 00:18:48 info: Lingma [version: 2.5.3, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-05-13 00:18:48 info: Congratulations, "Lingma" is now active!
+2025-05-13 00:18:48 info: start update lingma binary: /home/mmc/.vscode-server/extensions/alibaba-cloud.tongyi-lingma-2.5.3/dist
+2025-05-13 00:18:48 info: read lingma info. pid=52650
+2025-05-13 00:18:48 info: start kill lingma process, pid=52650
+2025-05-13 00:18:48 info: kill lingma process finished
+2025-05-13 00:18:48 info: kill lingma process finish.
+2025-05-13 00:18:49 info: unzipLingma: start
+2025-05-13 00:18:57 info: unzip onclose
+2025-05-13 00:18:57 info: unzip onfinish
+2025-05-13 00:18:58 info: lingma process[pid=52650, port=36510] check port not alive, start lingma process now.
+2025-05-13 00:18:58 info: try to start lingma process.
+2025-05-13 00:18:58 info: current lingma version is 2.5.3, retry times: 0
+2025-05-13 00:18:58 info: start lingma process successfully.
+2025-05-13 00:19:01 info: lingma try to connect to language server.
+2025-05-13 00:19:01 info: try to create ws connection
+2025-05-13 00:19:01 info: lingma connected to language server successfully.
+2025-05-13 00:19:01 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-13 00:28:47 info: try to create ws connection
+2025-05-13 00:38:47 info: try to create ws connection
+2025-05-13 00:48:47 info: try to create ws connection
+2025-05-13 00:58:47 info: try to create ws connection
+2025-05-14 23:11:48 info: Lingma [version: 2.5.4, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-05-14 23:11:48 info: Congratulations, "Lingma" is now active!
+2025-05-14 23:11:48 info: start update lingma binary: /home/mmc/.vscode-server/extensions/alibaba-cloud.tongyi-lingma-2.5.4/dist
+2025-05-14 23:11:48 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-05-14 23:11:48 info: read lingma info. pid=undefined
+2025-05-14 23:11:48 info: unzipLingma: start
+2025-05-14 23:12:12 info: unzip onclose
+2025-05-14 23:12:12 info: unzip onfinish
+2025-05-14 23:12:12 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-05-14 23:12:12 info: read cosy info empty, start lingma process now. 
+2025-05-14 23:12:12 info: try to start lingma process.
+2025-05-14 23:12:12 info: current lingma version is 2.5.4, retry times: 0
+2025-05-14 23:12:12 info: start lingma process successfully.
+2025-05-14 23:12:15 info: lingma try to connect to language server.
+2025-05-14 23:12:15 info: try to create ws connection
+2025-05-14 23:12:15 info: lingma connected to language server successfully.
+2025-05-14 23:12:15 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-14 23:21:47 info: try to create ws connection
+2025-05-14 23:31:47 info: try to create ws connection
+2025-05-14 23:41:47 info: try to create ws connection
+2025-05-14 23:51:47 info: try to create ws connection
+2025-05-15 00:01:47 info: try to create ws connection
+2025-05-15 00:11:47 info: try to create ws connection
+2025-05-15 00:21:47 info: try to create ws connection
+2025-05-15 00:31:47 info: try to create ws connection
+2025-05-15 00:41:47 info: try to create ws connection
+2025-05-15 00:51:47 info: try to create ws connection
+2025-05-15 01:01:47 info: try to create ws connection
+2025-05-15 01:11:47 info: try to create ws connection
+2025-05-15 01:21:47 info: try to create ws connection
+2025-05-15 01:31:47 info: try to create ws connection
+2025-05-15 01:41:47 info: try to create ws connection
+2025-05-15 01:51:47 info: try to create ws connection
+2025-05-15 02:01:47 info: try to create ws connection
+2025-05-15 02:11:47 info: try to create ws connection
+2025-05-15 02:21:47 info: try to create ws connection
+2025-05-15 02:31:47 info: try to create ws connection
+2025-05-15 02:41:47 info: try to create ws connection
+2025-05-15 02:51:47 info: try to create ws connection
+2025-05-15 03:01:47 info: try to create ws connection
+2025-05-15 03:11:47 info: try to create ws connection
+2025-05-15 03:21:47 info: try to create ws connection
+2025-05-15 03:31:47 info: try to create ws connection
+2025-05-15 03:41:47 info: try to create ws connection
+2025-05-15 03:51:47 info: try to create ws connection
+2025-05-15 04:01:47 info: try to create ws connection
+2025-05-15 04:11:47 info: try to create ws connection
+2025-05-15 04:21:47 info: try to create ws connection
+2025-05-15 04:31:48 info: try to create ws connection
+2025-05-15 04:41:47 info: try to create ws connection
+2025-05-15 04:51:47 info: try to create ws connection
+2025-05-15 05:01:47 info: try to create ws connection
+2025-05-15 05:11:47 info: try to create ws connection
+2025-05-15 05:11:48 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-15 05:21:47 info: try to create ws connection
+2025-05-15 05:31:47 info: try to create ws connection
+2025-05-15 05:41:47 info: try to create ws connection
+2025-05-15 05:51:47 info: try to create ws connection
+2025-05-15 06:01:47 info: try to create ws connection
+2025-05-15 06:11:47 info: try to create ws connection
+2025-05-15 06:21:47 info: try to create ws connection
+2025-05-15 06:31:47 info: try to create ws connection
+2025-05-15 06:41:47 info: try to create ws connection
+2025-05-15 06:51:47 info: try to create ws connection
+2025-05-15 07:01:47 info: try to create ws connection
+2025-05-15 07:11:47 info: try to create ws connection
+2025-05-15 07:21:47 info: try to create ws connection
+2025-05-15 07:31:47 info: try to create ws connection
+2025-05-15 07:41:47 info: try to create ws connection
+2025-05-15 07:51:47 info: try to create ws connection
+2025-05-15 08:01:47 info: try to create ws connection
+2025-05-15 08:11:47 info: try to create ws connection
+2025-05-15 08:21:48 info: try to create ws connection
+2025-05-15 08:31:48 info: try to create ws connection
+2025-05-15 08:41:48 info: try to create ws connection
+2025-05-15 08:51:48 info: try to create ws connection
+2025-05-15 09:01:48 info: try to create ws connection
+2025-05-15 09:11:48 info: try to create ws connection
+2025-05-15 09:21:48 info: try to create ws connection
+2025-05-15 09:31:48 info: try to create ws connection
+2025-05-15 09:41:48 info: try to create ws connection
+2025-05-15 09:51:48 info: try to create ws connection
+2025-05-15 10:01:48 info: try to create ws connection
+2025-05-15 10:11:48 info: try to create ws connection
+2025-05-15 10:21:48 info: try to create ws connection
+2025-05-15 10:31:48 info: try to create ws connection
+2025-05-15 10:41:48 info: try to create ws connection
+2025-05-15 10:51:48 info: try to create ws connection
+2025-05-15 11:01:48 info: try to create ws connection
+2025-05-15 11:11:48 info: try to create ws connection
+2025-05-15 11:11:48 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-15 11:21:48 info: try to create ws connection
+2025-05-15 11:31:48 info: try to create ws connection
+2025-05-15 11:41:48 info: try to create ws connection
+2025-05-15 11:51:48 info: try to create ws connection
+2025-05-15 12:01:48 info: try to create ws connection
+2025-05-15 12:11:48 info: try to create ws connection
+2025-05-15 12:21:48 info: try to create ws connection
+2025-05-15 12:31:48 info: try to create ws connection
+2025-05-15 12:41:48 info: try to create ws connection
+2025-05-15 12:51:48 info: try to create ws connection
+2025-05-15 13:01:48 info: try to create ws connection
+2025-05-15 13:11:48 info: try to create ws connection
+2025-05-15 13:21:48 info: try to create ws connection
+2025-05-15 13:31:48 info: try to create ws connection
+2025-05-15 13:41:48 info: try to create ws connection
+2025-05-15 13:51:48 info: try to create ws connection
+2025-05-15 14:01:48 info: try to create ws connection
+2025-05-15 14:11:48 info: try to create ws connection
+2025-05-15 14:21:48 info: try to create ws connection
+2025-05-15 14:31:48 info: try to create ws connection
+2025-05-15 14:41:48 info: try to create ws connection
+2025-05-15 14:51:48 info: try to create ws connection
+2025-05-15 15:01:48 info: try to create ws connection
+2025-05-15 15:11:48 info: try to create ws connection
+2025-05-15 15:21:48 info: try to create ws connection
+2025-05-15 15:31:48 info: try to create ws connection
+2025-05-15 15:41:48 info: try to create ws connection
+2025-05-15 15:51:48 info: try to create ws connection
+2025-05-15 16:01:48 info: try to create ws connection
+2025-05-15 23:32:45 info: Lingma [version: 2.5.4, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-05-15 23:32:45 info: Congratulations, "Lingma" is now active!
+2025-05-15 23:32:45 info: check exist binary path, no need update.
+2025-05-15 23:32:46 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-05-15 23:32:46 info: read cosy info empty, start lingma process now. 
+2025-05-15 23:32:46 info: try to start lingma process.
+2025-05-15 23:32:46 info: current lingma version is 2.5.4, retry times: 0
+2025-05-15 23:32:46 info: start lingma process successfully.
+2025-05-15 23:32:49 info: lingma try to connect to language server.
+2025-05-15 23:32:49 info: try to create ws connection
+2025-05-15 23:32:49 info: lingma connected to language server successfully.
+2025-05-15 23:32:49 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-15 23:35:16 info: Lingma [version: 2.5.5, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-05-15 23:35:16 info: Congratulations, "Lingma" is now active!
+2025-05-15 23:35:16 info: start update lingma binary: /home/mmc/.vscode-server/extensions/alibaba-cloud.tongyi-lingma-2.5.5/dist
+2025-05-15 23:35:16 info: read lingma info. pid=9862
+2025-05-15 23:35:16 info: start kill lingma process, pid=9862
+2025-05-15 23:35:16 info: kill lingma process finished
+2025-05-15 23:35:16 info: kill lingma process finish.
+2025-05-15 23:35:16 info: unzipLingma: start
+2025-05-15 23:35:22 info: unzip onclose
+2025-05-15 23:35:22 info: unzip onfinish
+2025-05-15 23:35:22 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-05-15 23:35:22 info: read cosy info empty, start lingma process now. 
+2025-05-15 23:35:22 info: try to start lingma process.
+2025-05-15 23:35:22 info: start lingma process successfully.
+2025-05-15 23:35:25 info: lingma try to connect to language server.
+2025-05-15 23:35:25 info: try to create ws connection
+2025-05-15 23:35:25 info: lingma connected to language server successfully.
+2025-05-15 23:35:26 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-15 23:45:16 info: try to create ws connection
+2025-05-15 23:55:16 info: try to create ws connection
+2025-05-16 00:05:16 info: try to create ws connection
+2025-05-16 00:15:16 info: try to create ws connection
+2025-05-16 00:25:16 info: try to create ws connection
+2025-05-16 00:35:16 info: try to create ws connection
+2025-05-16 00:45:16 info: try to create ws connection
+2025-05-16 00:55:16 info: try to create ws connection
+2025-05-16 01:05:16 info: try to create ws connection
+2025-05-16 01:15:16 info: try to create ws connection
+2025-05-16 01:25:16 info: try to create ws connection
+2025-05-16 01:35:16 info: try to create ws connection
+2025-05-16 01:45:16 info: try to create ws connection
+2025-05-16 01:55:16 info: try to create ws connection
+2025-05-16 02:05:16 info: try to create ws connection
+2025-05-16 02:15:16 info: try to create ws connection
+2025-05-16 02:25:16 info: try to create ws connection
+2025-05-16 02:35:16 info: try to create ws connection
+2025-05-16 02:45:16 info: try to create ws connection
+2025-05-16 02:55:16 info: try to create ws connection
+2025-05-16 03:05:16 info: try to create ws connection
+2025-05-16 03:15:16 info: try to create ws connection
+2025-05-16 03:25:16 info: try to create ws connection
+2025-05-16 03:35:16 info: try to create ws connection
+2025-05-16 03:45:16 info: try to create ws connection
+2025-05-16 03:55:16 info: try to create ws connection
+2025-05-16 04:05:16 info: try to create ws connection
+2025-05-16 04:15:16 info: try to create ws connection
+2025-05-16 04:25:16 info: try to create ws connection
+2025-05-16 04:35:16 info: try to create ws connection
+2025-05-16 04:45:16 info: try to create ws connection
+2025-05-16 04:55:16 info: try to create ws connection
+2025-05-16 05:05:16 info: try to create ws connection
+2025-05-16 05:15:16 info: try to create ws connection
+2025-05-16 05:25:16 info: try to create ws connection
+2025-05-16 05:35:16 info: try to create ws connection
+2025-05-16 05:35:17 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-16 05:45:16 info: try to create ws connection
+2025-05-16 05:55:16 info: try to create ws connection
+2025-05-16 06:05:16 info: try to create ws connection
+2025-05-16 06:15:16 info: try to create ws connection
+2025-05-16 06:25:16 info: try to create ws connection
+2025-05-16 06:35:16 info: try to create ws connection
+2025-05-16 06:45:16 info: try to create ws connection
+2025-05-16 06:55:16 info: try to create ws connection
+2025-05-16 07:05:16 info: try to create ws connection
+2025-05-16 07:15:16 info: try to create ws connection
+2025-05-16 07:25:16 info: try to create ws connection
+2025-05-16 07:35:16 info: try to create ws connection
+2025-05-16 07:45:16 info: try to create ws connection
+2025-05-16 07:55:16 info: try to create ws connection
+2025-05-16 08:05:16 info: try to create ws connection
+2025-05-16 08:15:16 info: try to create ws connection
+2025-05-16 08:25:16 info: try to create ws connection
+2025-05-16 08:35:16 info: try to create ws connection
+2025-05-16 08:45:16 info: try to create ws connection
+2025-05-16 08:55:16 info: try to create ws connection
+2025-05-16 09:05:16 info: try to create ws connection
+2025-05-16 09:15:16 info: try to create ws connection
+2025-05-16 09:25:16 info: try to create ws connection
+2025-05-16 09:35:16 info: try to create ws connection
+2025-05-16 09:45:16 info: try to create ws connection
+2025-05-16 09:55:16 info: try to create ws connection
+2025-05-16 10:05:16 info: try to create ws connection
+2025-05-16 10:15:16 info: try to create ws connection
+2025-05-16 10:25:16 info: try to create ws connection
+2025-05-16 10:35:16 info: try to create ws connection
+2025-05-16 10:45:16 info: try to create ws connection
+2025-05-16 10:55:16 info: try to create ws connection
+2025-05-16 11:05:16 info: try to create ws connection
+2025-05-16 11:15:16 info: try to create ws connection
+2025-05-16 11:25:16 info: try to create ws connection
+2025-05-16 11:35:16 info: try to create ws connection
+2025-05-16 11:35:16 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-16 11:45:16 info: try to create ws connection
+2025-05-16 11:55:16 info: try to create ws connection
+2025-05-16 12:05:16 info: try to create ws connection
+2025-05-16 12:15:16 info: try to create ws connection
+2025-05-16 12:25:16 info: try to create ws connection
+2025-05-16 12:35:16 info: try to create ws connection
+2025-05-16 12:45:16 info: try to create ws connection
+2025-05-16 12:55:16 info: try to create ws connection
+2025-05-16 13:05:16 info: try to create ws connection
+2025-05-16 13:15:16 info: try to create ws connection
+2025-05-16 13:25:16 info: try to create ws connection
+2025-05-16 13:35:16 info: try to create ws connection
+2025-05-16 13:45:16 info: try to create ws connection
+2025-05-16 13:55:16 info: try to create ws connection
+2025-05-16 14:05:16 info: try to create ws connection
+2025-05-16 14:15:16 info: try to create ws connection
+2025-05-16 14:25:16 info: try to create ws connection
+2025-05-16 14:35:16 info: try to create ws connection
+2025-05-16 14:45:16 info: try to create ws connection
+2025-05-16 14:55:16 info: try to create ws connection
+2025-05-16 15:05:16 info: try to create ws connection
+2025-05-16 15:15:16 info: try to create ws connection
+2025-05-16 15:25:16 info: try to create ws connection
+2025-05-16 15:35:16 info: try to create ws connection
+2025-05-16 15:45:16 info: try to create ws connection
+2025-05-16 15:55:16 info: try to create ws connection
+2025-05-16 16:05:16 info: try to create ws connection
+2025-05-16 16:15:16 info: try to create ws connection
+2025-05-16 16:25:16 info: try to create ws connection
+2025-05-16 16:35:16 info: try to create ws connection
+2025-05-16 16:45:16 info: try to create ws connection
+2025-05-16 16:55:16 info: try to create ws connection
+2025-05-16 17:05:16 info: try to create ws connection
+2025-05-16 17:15:16 info: try to create ws connection
+2025-05-16 17:25:16 info: try to create ws connection
+2025-05-16 17:35:16 info: try to create ws connection
+2025-05-16 17:35:17 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-16 17:45:16 info: try to create ws connection
+2025-05-16 17:55:16 info: try to create ws connection
+2025-05-16 18:05:16 info: try to create ws connection
+2025-05-16 18:15:16 info: try to create ws connection
+2025-05-16 18:25:16 info: try to create ws connection
+2025-05-16 18:35:16 info: try to create ws connection
+2025-05-16 18:45:16 info: try to create ws connection
+2025-05-16 18:55:16 info: try to create ws connection
+2025-05-16 19:05:16 info: try to create ws connection
+2025-05-16 19:15:16 info: try to create ws connection
+2025-05-16 19:25:16 info: try to create ws connection
+2025-05-16 19:35:16 info: try to create ws connection
+2025-05-16 19:45:16 info: try to create ws connection
+2025-05-16 19:55:16 info: try to create ws connection
+2025-05-16 20:05:16 info: try to create ws connection
+2025-05-16 20:15:16 info: try to create ws connection
+2025-05-16 20:25:16 info: try to create ws connection
+2025-05-16 20:35:16 info: try to create ws connection
+2025-05-16 20:45:16 info: try to create ws connection
+2025-05-16 20:55:16 info: try to create ws connection
+2025-05-16 21:05:16 info: try to create ws connection
+2025-05-16 21:15:16 info: try to create ws connection
+2025-05-16 21:25:16 info: try to create ws connection
+2025-05-16 21:35:16 info: try to create ws connection
+2025-05-16 21:45:16 info: try to create ws connection
+2025-05-16 21:55:16 info: try to create ws connection
+2025-05-16 22:05:16 info: try to create ws connection
+2025-05-16 22:15:16 info: try to create ws connection
+2025-05-16 22:25:16 info: try to create ws connection
+2025-05-16 22:35:16 info: try to create ws connection
+2025-05-16 22:45:16 info: try to create ws connection
+2025-05-16 22:55:16 info: try to create ws connection
+2025-05-16 23:05:16 info: try to create ws connection
+2025-05-16 23:15:16 info: try to create ws connection
+2025-05-16 23:25:16 info: try to create ws connection
+2025-05-16 23:35:16 info: try to create ws connection
+2025-05-16 23:35:16 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-16 23:45:16 info: try to create ws connection
+2025-05-16 23:55:16 info: try to create ws connection
+2025-05-17 00:05:16 info: try to create ws connection
+2025-05-17 00:15:16 info: try to create ws connection
+2025-05-17 00:25:16 info: try to create ws connection
+2025-05-17 00:35:16 info: try to create ws connection
+2025-05-17 00:45:16 info: try to create ws connection
+2025-05-17 00:55:16 info: try to create ws connection
+2025-05-17 01:05:16 info: try to create ws connection
+2025-05-17 01:15:16 info: try to create ws connection
+2025-05-17 01:25:16 info: try to create ws connection
+2025-05-17 01:35:16 info: try to create ws connection
+2025-05-17 01:45:16 info: try to create ws connection
+2025-05-17 01:55:16 info: try to create ws connection
+2025-05-17 02:05:16 info: try to create ws connection
+2025-05-17 02:15:16 info: try to create ws connection
+2025-05-17 02:25:16 info: try to create ws connection
+2025-05-17 02:35:16 info: try to create ws connection
+2025-05-17 02:45:16 info: try to create ws connection
+2025-05-17 02:55:16 info: try to create ws connection
+2025-05-17 03:05:16 info: try to create ws connection
+2025-05-17 03:15:16 info: try to create ws connection
+2025-05-17 03:25:16 info: try to create ws connection
+2025-05-17 03:35:16 info: try to create ws connection
+2025-05-17 03:45:16 info: try to create ws connection
+2025-05-17 03:55:16 info: try to create ws connection
+2025-05-17 04:05:16 info: try to create ws connection
+2025-05-17 04:15:16 info: try to create ws connection
+2025-05-17 04:25:16 info: try to create ws connection
+2025-05-17 04:35:16 info: try to create ws connection
+2025-05-17 04:45:16 info: try to create ws connection
+2025-05-17 04:55:16 info: try to create ws connection
+2025-05-17 05:05:16 info: try to create ws connection
+2025-05-17 05:15:16 info: try to create ws connection
+2025-05-17 05:25:16 info: try to create ws connection
+2025-05-17 05:35:16 info: try to create ws connection
+2025-05-17 05:35:17 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-17 05:45:16 info: try to create ws connection
+2025-05-17 05:55:16 info: try to create ws connection
+2025-05-17 06:05:16 info: try to create ws connection
+2025-05-17 06:15:16 info: try to create ws connection
+2025-05-17 06:25:16 info: try to create ws connection
+2025-05-17 06:35:16 info: try to create ws connection
+2025-05-17 06:45:16 info: try to create ws connection
+2025-05-17 06:55:16 info: try to create ws connection
+2025-05-17 07:05:16 info: try to create ws connection
+2025-05-17 07:15:16 info: try to create ws connection
+2025-05-17 07:25:16 info: try to create ws connection
+2025-05-17 07:35:16 info: try to create ws connection
+2025-05-17 07:45:16 info: try to create ws connection
+2025-05-17 07:55:16 info: try to create ws connection
+2025-05-17 08:05:16 info: try to create ws connection
+2025-05-17 08:15:16 info: try to create ws connection
+2025-05-17 08:25:16 info: try to create ws connection
+2025-05-17 08:35:16 info: try to create ws connection
+2025-05-17 08:45:16 info: try to create ws connection
+2025-05-17 08:55:16 info: try to create ws connection
+2025-05-17 09:05:16 info: try to create ws connection
+2025-05-17 09:15:16 info: try to create ws connection
+2025-05-17 09:25:16 info: try to create ws connection
+2025-05-17 09:35:16 info: try to create ws connection
+2025-05-17 09:45:16 info: try to create ws connection
+2025-05-17 09:55:16 info: try to create ws connection
+2025-05-17 10:05:16 info: try to create ws connection
+2025-05-17 10:15:16 info: try to create ws connection
+2025-05-17 10:25:16 info: try to create ws connection
+2025-05-17 10:35:16 info: try to create ws connection
+2025-05-17 10:45:16 info: try to create ws connection
+2025-05-17 10:55:16 info: try to create ws connection
+2025-05-17 11:05:16 info: try to create ws connection
+2025-05-17 11:15:16 info: try to create ws connection
+2025-05-17 11:25:16 info: try to create ws connection
+2025-05-17 11:35:16 info: try to create ws connection
+2025-05-17 11:35:16 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-17 11:45:16 info: try to create ws connection
+2025-05-17 11:55:16 info: try to create ws connection
+2025-05-17 12:05:16 info: try to create ws connection
+2025-05-17 12:15:16 info: try to create ws connection
+2025-05-17 12:25:16 info: try to create ws connection
+2025-05-17 12:35:16 info: try to create ws connection
+2025-05-17 12:45:16 info: try to create ws connection
+2025-05-17 12:55:16 info: try to create ws connection
+2025-05-17 13:05:16 info: try to create ws connection
+2025-05-17 13:15:16 info: try to create ws connection
+2025-05-17 13:25:16 info: try to create ws connection
+2025-05-17 13:35:16 info: try to create ws connection
+2025-05-17 13:45:16 info: try to create ws connection
+2025-05-17 13:55:16 info: try to create ws connection
+2025-05-17 14:05:16 info: try to create ws connection
+2025-05-17 14:15:16 info: try to create ws connection
+2025-05-17 14:25:16 info: try to create ws connection
+2025-05-17 14:35:16 info: try to create ws connection
+2025-05-17 14:45:16 info: try to create ws connection
+2025-05-17 14:55:16 info: try to create ws connection
+2025-05-17 15:05:16 info: try to create ws connection
+2025-05-17 15:15:16 info: try to create ws connection
+2025-05-17 15:25:16 info: try to create ws connection
+2025-05-17 15:35:16 info: try to create ws connection
+2025-05-17 15:45:16 info: try to create ws connection
+2025-05-17 15:55:16 info: try to create ws connection
+2025-05-17 16:05:16 info: try to create ws connection
+2025-05-17 16:15:16 info: try to create ws connection
+2025-05-17 16:25:16 info: try to create ws connection
+2025-05-17 16:35:16 info: try to create ws connection
+2025-05-17 16:45:17 info: try to create ws connection
+2025-05-17 16:55:16 info: try to create ws connection
+2025-05-17 17:05:16 info: try to create ws connection
+2025-05-17 17:15:16 info: try to create ws connection
+2025-05-17 17:25:16 info: try to create ws connection
+2025-05-17 17:35:16 info: try to create ws connection
+2025-05-17 17:35:16 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-17 17:45:16 info: try to create ws connection
+2025-05-17 17:55:16 info: try to create ws connection
+2025-05-17 18:05:16 info: try to create ws connection
+2025-05-17 18:15:16 info: try to create ws connection
+2025-05-17 18:25:16 info: try to create ws connection
+2025-05-17 18:35:16 info: try to create ws connection
+2025-05-17 18:45:16 info: try to create ws connection
+2025-05-17 18:55:17 info: try to create ws connection
+2025-05-17 19:05:17 info: try to create ws connection
+2025-05-17 19:15:17 info: try to create ws connection
+2025-05-17 19:25:17 info: try to create ws connection
+2025-05-17 19:35:17 info: try to create ws connection
+2025-05-17 19:45:17 info: try to create ws connection
+2025-05-17 19:55:17 info: try to create ws connection
+2025-05-17 20:05:17 info: try to create ws connection
+2025-05-17 20:15:17 info: try to create ws connection
+2025-05-17 20:25:17 info: try to create ws connection
+2025-05-17 20:35:17 info: try to create ws connection
+2025-05-17 20:45:17 info: try to create ws connection
+2025-05-17 20:55:17 info: try to create ws connection
+2025-05-17 21:05:17 info: try to create ws connection
+2025-05-17 21:15:17 info: try to create ws connection
+2025-05-17 21:25:17 info: try to create ws connection
+2025-05-17 21:35:17 info: try to create ws connection
+2025-05-17 21:45:17 info: try to create ws connection
+2025-05-17 21:55:17 info: try to create ws connection
+2025-05-17 22:05:17 info: try to create ws connection
+2025-05-17 22:15:17 info: try to create ws connection
+2025-05-17 22:20:23 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-17 22:25:17 info: try to create ws connection
+2025-05-17 22:35:17 info: try to create ws connection
+2025-05-17 22:45:17 info: try to create ws connection
+2025-05-17 22:55:17 info: try to create ws connection
+2025-05-17 23:05:17 info: try to create ws connection
+2025-05-17 23:15:17 info: try to create ws connection
+2025-05-17 23:25:17 info: try to create ws connection
+2025-05-17 23:35:17 info: try to create ws connection
+2025-05-17 23:35:17 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-17 23:45:17 info: try to create ws connection
+2025-05-17 23:55:17 info: try to create ws connection
+2025-05-18 00:05:17 info: try to create ws connection
+2025-05-18 00:15:17 info: try to create ws connection
+2025-05-18 00:25:17 info: try to create ws connection
+2025-05-18 00:35:17 info: try to create ws connection
+2025-05-18 00:45:17 info: try to create ws connection
+2025-05-18 00:55:17 info: try to create ws connection
+2025-05-18 01:05:17 info: try to create ws connection
+2025-05-18 01:15:17 info: try to create ws connection
+2025-05-18 01:25:17 info: try to create ws connection
+2025-05-18 01:35:17 info: try to create ws connection
+2025-05-18 01:45:17 info: try to create ws connection
+2025-05-18 01:55:17 info: try to create ws connection
+2025-05-18 02:05:17 info: try to create ws connection
+2025-05-18 02:15:17 info: try to create ws connection
+2025-05-18 02:25:17 info: try to create ws connection
+2025-05-18 02:35:17 info: try to create ws connection
+2025-05-18 02:45:17 info: try to create ws connection
+2025-05-18 02:55:17 info: try to create ws connection
+2025-05-18 03:05:17 info: try to create ws connection
+2025-05-18 03:15:17 info: try to create ws connection
+2025-05-18 03:25:17 info: try to create ws connection
+2025-05-18 03:35:17 info: try to create ws connection
+2025-05-18 03:45:17 info: try to create ws connection
+2025-05-18 03:55:17 info: try to create ws connection
+2025-05-18 04:05:17 info: try to create ws connection
+2025-05-18 04:15:17 info: try to create ws connection
+2025-05-18 04:25:17 info: try to create ws connection
+2025-05-18 04:35:17 info: try to create ws connection
+2025-05-18 04:45:17 info: try to create ws connection
+2025-05-18 04:55:17 info: try to create ws connection
+2025-05-18 05:05:17 info: try to create ws connection
+2025-05-18 05:15:17 info: try to create ws connection
+2025-05-18 05:25:17 info: try to create ws connection
+2025-05-18 05:35:17 info: try to create ws connection
+2025-05-18 05:35:17 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-18 05:45:17 info: try to create ws connection
+2025-05-18 05:55:17 info: try to create ws connection
+2025-05-18 06:05:17 info: try to create ws connection
+2025-05-18 06:15:17 info: try to create ws connection
+2025-05-18 06:25:17 info: try to create ws connection
+2025-05-18 06:35:17 info: try to create ws connection
+2025-05-18 06:45:17 info: try to create ws connection
+2025-05-18 06:55:17 info: try to create ws connection
+2025-05-18 07:05:17 info: try to create ws connection
+2025-05-18 07:15:17 info: try to create ws connection
+2025-05-18 07:25:17 info: try to create ws connection
+2025-05-18 07:35:17 info: try to create ws connection
+2025-05-18 07:45:17 info: try to create ws connection
+2025-05-18 07:55:17 info: try to create ws connection
+2025-05-18 08:05:17 info: try to create ws connection
+2025-05-18 08:15:17 info: try to create ws connection
+2025-05-18 08:25:17 info: try to create ws connection
+2025-05-18 08:35:17 info: try to create ws connection
+2025-05-18 08:45:17 info: try to create ws connection
+2025-05-18 08:55:17 info: try to create ws connection
+2025-05-18 09:05:17 info: try to create ws connection
+2025-05-18 09:15:17 info: try to create ws connection
+2025-05-18 09:25:17 info: try to create ws connection
+2025-05-18 09:35:17 info: try to create ws connection
+2025-05-18 09:45:17 info: try to create ws connection
+2025-05-18 09:55:17 info: try to create ws connection
+2025-05-18 10:05:17 info: try to create ws connection
+2025-05-18 10:15:17 info: try to create ws connection
+2025-05-18 10:25:17 info: try to create ws connection
+2025-05-18 10:35:17 info: try to create ws connection
+2025-05-18 10:45:17 info: try to create ws connection
+2025-05-18 10:55:17 info: try to create ws connection
+2025-05-18 11:05:17 info: try to create ws connection
+2025-05-18 11:15:17 info: try to create ws connection
+2025-05-18 11:25:17 info: try to create ws connection
+2025-05-18 11:35:17 info: try to create ws connection
+2025-05-18 11:35:17 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-18 11:45:17 info: try to create ws connection
+2025-05-18 11:55:17 info: try to create ws connection
+2025-05-18 12:05:17 info: try to create ws connection
+2025-05-18 12:15:17 info: try to create ws connection
+2025-05-18 12:25:17 info: try to create ws connection
+2025-05-18 12:35:17 info: try to create ws connection
+2025-05-18 12:45:17 info: try to create ws connection
+2025-05-18 12:55:17 info: try to create ws connection
+2025-05-18 13:05:17 info: try to create ws connection
+2025-05-18 13:15:17 info: try to create ws connection
+2025-05-18 13:25:17 info: try to create ws connection
+2025-05-18 13:35:17 info: try to create ws connection
+2025-05-18 13:45:17 info: try to create ws connection
+2025-05-18 13:55:17 info: try to create ws connection
+2025-05-18 14:05:17 info: try to create ws connection
+2025-05-18 14:15:17 info: try to create ws connection
+2025-05-18 14:25:17 info: try to create ws connection
+2025-05-18 14:35:17 info: try to create ws connection
+2025-05-18 14:45:17 info: try to create ws connection
+2025-05-18 14:55:17 info: try to create ws connection
+2025-05-18 15:05:17 info: try to create ws connection
+2025-05-18 15:15:17 info: try to create ws connection
+2025-05-18 15:25:17 info: try to create ws connection
+2025-05-18 15:35:17 info: try to create ws connection
+2025-05-18 15:45:17 info: try to create ws connection
+2025-05-18 15:55:17 info: try to create ws connection
+2025-05-18 16:05:17 info: try to create ws connection
+2025-05-18 16:15:17 info: try to create ws connection
+2025-05-18 16:25:17 info: try to create ws connection
+2025-05-18 16:35:17 info: try to create ws connection
+2025-05-18 16:45:17 info: try to create ws connection
+2025-05-18 16:55:17 info: try to create ws connection
+2025-05-18 17:05:17 info: try to create ws connection
+2025-05-18 17:15:17 info: try to create ws connection
+2025-05-18 17:25:17 info: try to create ws connection
+2025-05-18 17:35:17 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-18 17:35:17 info: try to create ws connection
+2025-05-18 17:45:17 info: try to create ws connection
+2025-05-18 17:55:17 info: try to create ws connection
+2025-05-18 18:05:17 info: try to create ws connection
+2025-05-18 18:15:17 info: try to create ws connection
+2025-05-18 18:25:17 info: try to create ws connection
+2025-05-18 18:35:17 info: try to create ws connection
+2025-05-18 18:45:17 info: try to create ws connection
+2025-05-18 18:55:17 info: try to create ws connection
+2025-05-18 19:05:17 info: try to create ws connection
+2025-05-18 19:15:17 info: try to create ws connection
+2025-05-18 19:25:17 info: try to create ws connection
+2025-05-18 19:35:17 info: try to create ws connection
+2025-05-18 19:45:17 info: try to create ws connection
+2025-05-18 19:55:17 info: try to create ws connection
+2025-05-18 20:05:17 info: try to create ws connection
+2025-05-18 20:15:17 info: try to create ws connection
+2025-05-18 20:25:17 info: try to create ws connection
+2025-05-18 20:35:17 info: try to create ws connection
+2025-05-18 20:45:17 info: try to create ws connection
+2025-05-18 20:55:17 info: try to create ws connection
+2025-05-18 21:05:17 info: try to create ws connection
+2025-05-18 21:15:17 info: try to create ws connection
+2025-05-18 21:25:17 info: try to create ws connection
+2025-05-18 21:35:17 info: try to create ws connection
+2025-05-18 21:45:17 info: try to create ws connection
+2025-05-18 21:55:17 info: try to create ws connection
+2025-05-18 22:05:17 info: try to create ws connection
+2025-05-18 22:15:17 info: try to create ws connection
+2025-05-18 22:25:17 info: try to create ws connection
+2025-05-18 22:35:17 info: try to create ws connection
+2025-05-18 22:45:17 info: try to create ws connection
+2025-05-18 22:55:17 info: try to create ws connection
+2025-05-18 23:05:17 info: try to create ws connection
+2025-05-18 23:15:17 info: try to create ws connection
+2025-05-18 23:25:17 info: try to create ws connection
+2025-05-18 23:35:16 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-18 23:35:17 info: try to create ws connection
+2025-05-18 23:45:17 info: try to create ws connection
+2025-05-18 23:55:17 info: try to create ws connection
+2025-05-19 00:05:17 info: try to create ws connection
+2025-05-19 00:15:17 info: try to create ws connection
+2025-05-19 00:25:17 info: try to create ws connection
+2025-05-19 00:35:17 info: try to create ws connection
+2025-05-19 00:45:17 info: try to create ws connection
+2025-05-19 00:55:17 info: try to create ws connection
+2025-05-19 01:05:17 info: try to create ws connection
+2025-05-19 01:15:17 info: try to create ws connection
+2025-05-19 01:25:17 info: try to create ws connection
+2025-05-19 01:35:17 info: try to create ws connection
+2025-05-19 01:45:17 info: try to create ws connection
+2025-05-19 01:55:17 info: try to create ws connection
+2025-05-19 02:05:17 info: try to create ws connection
+2025-05-19 02:15:17 info: try to create ws connection
+2025-05-19 02:25:17 info: try to create ws connection
+2025-05-19 02:35:17 info: try to create ws connection
+2025-05-19 02:45:17 info: try to create ws connection
+2025-05-19 02:55:17 info: try to create ws connection
+2025-05-19 03:05:17 info: try to create ws connection
+2025-05-19 03:15:17 info: try to create ws connection
+2025-05-19 03:25:17 info: try to create ws connection
+2025-05-19 03:35:17 info: try to create ws connection
+2025-05-19 03:45:17 info: try to create ws connection
+2025-05-19 03:55:17 info: try to create ws connection
+2025-05-19 04:05:17 info: try to create ws connection
+2025-05-19 04:15:17 info: try to create ws connection
+2025-05-19 04:25:17 info: try to create ws connection
+2025-05-19 04:35:17 info: try to create ws connection
+2025-05-19 04:45:17 info: try to create ws connection
+2025-05-19 04:55:17 info: try to create ws connection
+2025-05-19 05:05:17 info: try to create ws connection
+2025-05-19 05:15:17 info: try to create ws connection
+2025-05-19 05:25:17 info: try to create ws connection
+2025-05-19 05:35:17 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-19 05:35:17 info: try to create ws connection
+2025-05-19 05:45:17 info: try to create ws connection
+2025-05-19 05:55:17 info: try to create ws connection
+2025-05-19 06:05:17 info: try to create ws connection
+2025-05-19 06:15:17 info: try to create ws connection
+2025-05-19 06:25:17 info: try to create ws connection
+2025-05-19 06:35:17 info: try to create ws connection
+2025-05-19 06:45:17 info: try to create ws connection
+2025-05-19 06:55:17 info: try to create ws connection
+2025-05-19 07:05:17 info: try to create ws connection
+2025-05-19 07:15:17 info: try to create ws connection
+2025-05-19 07:25:17 info: try to create ws connection
+2025-05-19 07:35:17 info: try to create ws connection
+2025-05-19 07:45:17 info: try to create ws connection
+2025-05-19 07:55:17 info: try to create ws connection
+2025-05-19 08:05:17 info: try to create ws connection
+2025-05-19 08:15:17 info: try to create ws connection
+2025-05-19 08:25:17 info: try to create ws connection
+2025-05-19 08:35:17 info: try to create ws connection
+2025-05-19 08:45:17 info: try to create ws connection
+2025-05-19 08:55:17 info: try to create ws connection
+2025-05-19 09:05:17 info: try to create ws connection
+2025-05-19 09:15:17 info: try to create ws connection
+2025-05-19 09:25:17 info: try to create ws connection
+2025-05-19 09:35:17 info: try to create ws connection
+2025-05-19 09:45:17 info: try to create ws connection
+2025-05-19 09:55:17 info: try to create ws connection
+2025-05-19 10:05:17 info: try to create ws connection
+2025-05-19 10:15:17 info: try to create ws connection
+2025-05-19 10:25:17 info: try to create ws connection
+2025-05-19 10:35:17 info: try to create ws connection
+2025-05-19 10:45:17 info: try to create ws connection
+2025-05-19 10:55:17 info: try to create ws connection
+2025-05-19 11:05:17 info: try to create ws connection
+2025-05-19 11:15:17 info: try to create ws connection
+2025-05-19 11:25:17 info: try to create ws connection
+2025-05-19 11:35:17 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-19 11:35:17 info: try to create ws connection
+2025-05-19 11:45:17 info: try to create ws connection
+2025-05-19 11:55:17 info: try to create ws connection
+2025-05-19 12:05:17 info: try to create ws connection
+2025-05-19 12:15:17 info: try to create ws connection
+2025-05-19 12:25:17 info: try to create ws connection
+2025-05-19 12:35:17 info: try to create ws connection
+2025-05-19 12:45:17 info: try to create ws connection
+2025-05-19 12:55:17 info: try to create ws connection
+2025-05-19 13:05:17 info: try to create ws connection
+2025-05-19 13:15:17 info: try to create ws connection
+2025-05-19 13:25:17 info: try to create ws connection
+2025-05-19 13:35:17 info: try to create ws connection
+2025-05-19 13:45:17 info: try to create ws connection
+2025-05-19 13:55:17 info: try to create ws connection
+2025-05-19 14:05:17 info: try to create ws connection
+2025-05-19 14:15:17 info: try to create ws connection
+2025-05-19 14:25:17 info: try to create ws connection
+2025-05-19 14:35:17 info: try to create ws connection
+2025-05-19 14:45:17 info: try to create ws connection
+2025-05-19 14:55:17 info: try to create ws connection
+2025-05-19 15:05:17 info: try to create ws connection
+2025-05-19 15:15:17 info: try to create ws connection
+2025-05-19 15:25:17 info: try to create ws connection
+2025-05-19 15:35:17 info: try to create ws connection
+2025-05-19 15:45:17 info: try to create ws connection
+2025-05-19 15:56:04 info: try to create ws connection
+2025-05-19 16:06:04 info: try to create ws connection
+2025-05-19 16:16:04 info: try to create ws connection
+2025-05-19 16:26:04 info: try to create ws connection
+2025-05-19 16:36:04 info: try to create ws connection
+2025-05-19 16:46:04 info: try to create ws connection
+2025-05-19 16:56:04 info: try to create ws connection
+2025-05-19 17:06:04 info: try to create ws connection
+2025-05-19 17:16:04 info: try to create ws connection
+2025-05-19 17:26:04 info: try to create ws connection
+2025-05-19 17:35:17 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-05-19 17:36:04 info: try to create ws connection
+2025-05-19 17:46:04 info: try to create ws connection
+2025-05-19 17:56:04 info: try to create ws connection
+2025-05-19 18:06:04 info: try to create ws connection
+2025-05-19 18:16:04 info: try to create ws connection
+2025-05-19 18:26:04 info: try to create ws connection
+2025-05-19 18:36:04 info: try to create ws connection
+2025-05-19 18:46:04 info: try to create ws connection
+2025-05-19 18:56:04 info: try to create ws connection
+2025-05-19 19:06:04 info: try to create ws connection
+2025-06-17 14:25:57 info: Lingma [version: 2.5.6, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-06-17 14:25:57 info: Congratulations, "Lingma" is now active!
+2025-06-17 14:25:57 info: start update lingma binary: /home/mmc/.vscode-server/extensions/alibaba-cloud.tongyi-lingma-2.5.6/dist
+2025-06-17 14:25:57 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-06-17 14:25:57 info: read lingma info. pid=undefined
+2025-06-17 14:25:58 info: unzipLingma: start
+2025-06-17 14:26:11 info: Lingma [version: 2.5.6, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-06-17 14:26:11 info: Congratulations, "Lingma" is now active!
+2025-06-17 14:26:11 info: start update lingma binary: /home/mmc/.vscode-server/extensions/alibaba-cloud.tongyi-lingma-2.5.6/dist
+2025-06-17 14:26:11 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-06-17 14:26:11 info: read lingma info. pid=undefined
+2025-06-17 14:26:12 info: unzipLingma: start
+2025-06-17 14:26:18 info: unzip onclose
+2025-06-17 14:26:18 info: unzip onfinish
+2025-06-17 14:26:18 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-06-17 14:26:18 info: read cosy info empty, start lingma process now. 
+2025-06-17 14:26:18 info: try to start lingma process.
+2025-06-17 14:26:18 info: start lingma process successfully.
+2025-06-17 14:26:21 info: lingma try to connect to language server.
+2025-06-17 14:26:21 info: try to create ws connection
+2025-06-17 14:26:21 info: lingma connected to language server successfully.
+2025-06-17 14:26:21 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-17 14:36:10 info: try to create ws connection
+2025-06-17 14:46:10 info: try to create ws connection
+2025-06-17 14:56:10 info: try to create ws connection
+2025-06-17 15:06:10 info: try to create ws connection
+2025-06-17 15:16:10 info: try to create ws connection
+2025-06-17 15:26:10 info: try to create ws connection
+2025-06-17 15:36:10 info: try to create ws connection
+2025-06-17 15:46:10 info: try to create ws connection
+2025-06-17 15:56:10 info: try to create ws connection
+2025-06-17 16:06:10 info: try to create ws connection
+2025-06-17 16:16:10 info: try to create ws connection
+2025-06-17 16:26:10 info: try to create ws connection
+2025-06-17 16:36:10 info: try to create ws connection
+2025-06-17 16:46:10 info: try to create ws connection
+2025-06-17 16:56:10 info: try to create ws connection
+2025-06-17 17:06:10 info: try to create ws connection
+2025-06-17 17:16:10 info: try to create ws connection
+2025-06-17 17:26:10 info: try to create ws connection
+2025-06-17 17:36:10 info: try to create ws connection
+2025-06-17 17:46:10 info: try to create ws connection
+2025-06-17 17:56:10 info: try to create ws connection
+2025-06-17 18:06:10 info: try to create ws connection
+2025-06-17 18:16:10 info: try to create ws connection
+2025-06-17 18:26:10 info: try to create ws connection
+2025-06-17 18:36:10 info: try to create ws connection
+2025-06-17 18:46:10 info: try to create ws connection
+2025-06-17 18:56:10 info: try to create ws connection
+2025-06-17 19:06:10 info: try to create ws connection
+2025-06-17 19:16:10 info: try to create ws connection
+2025-06-17 19:26:10 info: try to create ws connection
+2025-06-17 19:36:10 info: try to create ws connection
+2025-06-17 19:46:10 info: try to create ws connection
+2025-06-17 19:56:10 info: try to create ws connection
+2025-06-17 20:06:10 info: try to create ws connection
+2025-06-17 20:16:10 info: try to create ws connection
+2025-06-17 20:26:10 info: try to create ws connection
+2025-06-17 20:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-17 20:36:10 info: try to create ws connection
+2025-06-17 20:46:10 info: try to create ws connection
+2025-06-17 20:56:10 info: try to create ws connection
+2025-06-17 21:06:10 info: try to create ws connection
+2025-06-17 21:16:10 info: try to create ws connection
+2025-06-17 21:26:10 info: try to create ws connection
+2025-06-17 21:36:10 info: try to create ws connection
+2025-06-17 21:46:10 info: try to create ws connection
+2025-06-17 21:56:10 info: try to create ws connection
+2025-06-17 22:06:10 info: try to create ws connection
+2025-06-17 22:16:10 info: try to create ws connection
+2025-06-17 22:26:10 info: try to create ws connection
+2025-06-17 22:36:10 info: try to create ws connection
+2025-06-17 22:46:10 info: try to create ws connection
+2025-06-17 22:56:10 info: try to create ws connection
+2025-06-17 23:06:10 info: try to create ws connection
+2025-06-17 23:16:10 info: try to create ws connection
+2025-06-17 23:26:10 info: try to create ws connection
+2025-06-17 23:36:10 info: try to create ws connection
+2025-06-17 23:46:10 info: try to create ws connection
+2025-06-17 23:56:10 info: try to create ws connection
+2025-06-18 00:06:10 info: try to create ws connection
+2025-06-18 00:16:10 info: try to create ws connection
+2025-06-18 00:26:10 info: try to create ws connection
+2025-06-18 00:36:10 info: try to create ws connection
+2025-06-18 00:46:10 info: try to create ws connection
+2025-06-18 00:56:10 info: try to create ws connection
+2025-06-18 01:06:10 info: try to create ws connection
+2025-06-18 01:16:10 info: try to create ws connection
+2025-06-18 01:26:10 info: try to create ws connection
+2025-06-18 01:36:10 info: try to create ws connection
+2025-06-18 01:46:10 info: try to create ws connection
+2025-06-18 01:56:10 info: try to create ws connection
+2025-06-18 02:06:10 info: try to create ws connection
+2025-06-18 02:16:10 info: try to create ws connection
+2025-06-18 02:26:10 info: try to create ws connection
+2025-06-18 02:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-18 02:36:10 info: try to create ws connection
+2025-06-18 02:46:10 info: try to create ws connection
+2025-06-18 02:56:10 info: try to create ws connection
+2025-06-18 03:06:10 info: try to create ws connection
+2025-06-18 03:16:10 info: try to create ws connection
+2025-06-18 03:26:10 info: try to create ws connection
+2025-06-18 03:36:10 info: try to create ws connection
+2025-06-18 03:46:10 info: try to create ws connection
+2025-06-18 03:56:10 info: try to create ws connection
+2025-06-18 04:06:10 info: try to create ws connection
+2025-06-18 04:11:19 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-18 04:16:10 info: try to create ws connection
+2025-06-18 04:26:10 info: try to create ws connection
+2025-06-18 04:36:10 info: try to create ws connection
+2025-06-18 04:46:10 info: try to create ws connection
+2025-06-18 04:56:10 info: try to create ws connection
+2025-06-18 05:06:10 info: try to create ws connection
+2025-06-18 05:16:10 info: try to create ws connection
+2025-06-18 05:26:10 info: try to create ws connection
+2025-06-18 05:36:10 info: try to create ws connection
+2025-06-18 05:46:10 info: try to create ws connection
+2025-06-18 05:56:10 info: try to create ws connection
+2025-06-18 06:06:10 info: try to create ws connection
+2025-06-18 06:16:10 info: try to create ws connection
+2025-06-18 06:26:10 info: try to create ws connection
+2025-06-18 06:36:10 info: try to create ws connection
+2025-06-18 06:46:10 info: try to create ws connection
+2025-06-18 06:56:10 info: try to create ws connection
+2025-06-18 07:06:10 info: try to create ws connection
+2025-06-18 07:16:10 info: try to create ws connection
+2025-06-18 07:26:10 info: try to create ws connection
+2025-06-18 07:36:10 info: try to create ws connection
+2025-06-18 07:46:10 info: try to create ws connection
+2025-06-18 07:56:10 info: try to create ws connection
+2025-06-18 08:06:10 info: try to create ws connection
+2025-06-18 08:16:10 info: try to create ws connection
+2025-06-18 08:26:10 info: try to create ws connection
+2025-06-18 08:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-18 08:36:10 info: try to create ws connection
+2025-06-18 08:46:10 info: try to create ws connection
+2025-06-18 08:56:10 info: try to create ws connection
+2025-06-18 09:06:10 info: try to create ws connection
+2025-06-18 09:16:10 info: try to create ws connection
+2025-06-18 09:26:10 info: try to create ws connection
+2025-06-18 09:36:10 info: try to create ws connection
+2025-06-18 09:46:10 info: try to create ws connection
+2025-06-18 09:56:10 info: try to create ws connection
+2025-06-18 10:06:10 info: try to create ws connection
+2025-06-18 10:16:10 info: try to create ws connection
+2025-06-18 10:26:10 info: try to create ws connection
+2025-06-18 10:36:10 info: try to create ws connection
+2025-06-18 10:46:10 info: try to create ws connection
+2025-06-18 10:56:10 info: try to create ws connection
+2025-06-18 11:06:10 info: try to create ws connection
+2025-06-18 11:16:10 info: try to create ws connection
+2025-06-18 11:26:10 info: try to create ws connection
+2025-06-18 11:36:10 info: try to create ws connection
+2025-06-18 11:46:10 info: try to create ws connection
+2025-06-18 11:56:10 info: try to create ws connection
+2025-06-18 12:06:10 info: try to create ws connection
+2025-06-18 12:16:10 info: try to create ws connection
+2025-06-18 12:26:10 info: try to create ws connection
+2025-06-18 12:36:10 info: try to create ws connection
+2025-06-18 12:46:10 info: try to create ws connection
+2025-06-18 12:56:10 info: try to create ws connection
+2025-06-18 13:06:10 info: try to create ws connection
+2025-06-18 13:16:10 info: try to create ws connection
+2025-06-18 13:26:10 info: try to create ws connection
+2025-06-18 13:36:10 info: try to create ws connection
+2025-06-18 13:46:10 info: try to create ws connection
+2025-06-18 13:56:10 info: try to create ws connection
+2025-06-18 14:06:10 info: try to create ws connection
+2025-06-18 14:16:10 info: try to create ws connection
+2025-06-18 14:26:10 info: try to create ws connection
+2025-06-18 14:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-18 14:36:10 info: try to create ws connection
+2025-06-18 14:46:10 info: try to create ws connection
+2025-06-18 14:56:10 info: try to create ws connection
+2025-06-18 15:06:10 info: try to create ws connection
+2025-06-18 15:16:10 info: try to create ws connection
+2025-06-18 15:26:10 info: try to create ws connection
+2025-06-18 15:36:10 info: try to create ws connection
+2025-06-18 15:46:10 info: try to create ws connection
+2025-06-18 15:56:10 info: try to create ws connection
+2025-06-18 16:06:10 info: try to create ws connection
+2025-06-18 16:16:10 info: try to create ws connection
+2025-06-18 16:26:10 info: try to create ws connection
+2025-06-18 16:36:10 info: try to create ws connection
+2025-06-18 16:46:10 info: try to create ws connection
+2025-06-18 16:56:10 info: try to create ws connection
+2025-06-18 17:06:10 info: try to create ws connection
+2025-06-18 17:16:10 info: try to create ws connection
+2025-06-18 17:26:10 info: try to create ws connection
+2025-06-18 17:36:10 info: try to create ws connection
+2025-06-18 17:46:10 info: try to create ws connection
+2025-06-18 17:56:10 info: try to create ws connection
+2025-06-18 18:06:10 info: try to create ws connection
+2025-06-18 18:16:10 info: try to create ws connection
+2025-06-18 18:26:10 info: try to create ws connection
+2025-06-18 18:36:10 info: try to create ws connection
+2025-06-18 18:46:10 info: try to create ws connection
+2025-06-18 18:56:10 info: try to create ws connection
+2025-06-18 19:06:10 info: try to create ws connection
+2025-06-18 19:16:10 info: try to create ws connection
+2025-06-18 19:26:10 info: try to create ws connection
+2025-06-18 19:36:10 info: try to create ws connection
+2025-06-18 19:46:10 info: try to create ws connection
+2025-06-18 19:56:10 info: try to create ws connection
+2025-06-18 20:06:10 info: try to create ws connection
+2025-06-18 20:16:10 info: try to create ws connection
+2025-06-18 20:26:10 info: try to create ws connection
+2025-06-18 20:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-18 20:36:10 info: try to create ws connection
+2025-06-18 20:46:10 info: try to create ws connection
+2025-06-18 20:56:10 info: try to create ws connection
+2025-06-18 21:06:10 info: try to create ws connection
+2025-06-18 21:16:10 info: try to create ws connection
+2025-06-18 21:26:10 info: try to create ws connection
+2025-06-18 21:36:10 info: try to create ws connection
+2025-06-18 21:46:10 info: try to create ws connection
+2025-06-18 21:56:10 info: try to create ws connection
+2025-06-18 22:06:10 info: try to create ws connection
+2025-06-18 22:16:10 info: try to create ws connection
+2025-06-18 22:26:10 info: try to create ws connection
+2025-06-18 22:36:10 info: try to create ws connection
+2025-06-18 22:46:10 info: try to create ws connection
+2025-06-18 22:56:10 info: try to create ws connection
+2025-06-18 23:06:10 info: try to create ws connection
+2025-06-18 23:16:10 info: try to create ws connection
+2025-06-18 23:26:10 info: try to create ws connection
+2025-06-18 23:36:10 info: try to create ws connection
+2025-06-18 23:46:10 info: try to create ws connection
+2025-06-18 23:56:10 info: try to create ws connection
+2025-06-19 00:06:10 info: try to create ws connection
+2025-06-19 00:16:10 info: try to create ws connection
+2025-06-19 00:26:10 info: try to create ws connection
+2025-06-19 00:36:10 info: try to create ws connection
+2025-06-19 00:46:10 info: try to create ws connection
+2025-06-19 00:56:10 info: try to create ws connection
+2025-06-19 01:06:10 info: try to create ws connection
+2025-06-19 01:16:10 info: try to create ws connection
+2025-06-19 01:26:10 info: try to create ws connection
+2025-06-19 01:36:10 info: try to create ws connection
+2025-06-19 01:46:10 info: try to create ws connection
+2025-06-19 01:56:10 info: try to create ws connection
+2025-06-19 02:06:10 info: try to create ws connection
+2025-06-19 02:16:10 info: try to create ws connection
+2025-06-19 02:26:10 info: try to create ws connection
+2025-06-19 02:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-19 02:36:10 info: try to create ws connection
+2025-06-19 02:46:10 info: try to create ws connection
+2025-06-19 02:56:10 info: try to create ws connection
+2025-06-19 03:06:10 info: try to create ws connection
+2025-06-19 03:16:10 info: try to create ws connection
+2025-06-19 03:26:10 info: try to create ws connection
+2025-06-19 03:36:10 info: try to create ws connection
+2025-06-19 03:46:10 info: try to create ws connection
+2025-06-19 03:56:10 info: try to create ws connection
+2025-06-19 04:06:10 info: try to create ws connection
+2025-06-19 04:16:10 info: try to create ws connection
+2025-06-19 04:26:10 info: try to create ws connection
+2025-06-19 04:36:10 info: try to create ws connection
+2025-06-19 04:46:10 info: try to create ws connection
+2025-06-19 04:56:10 info: try to create ws connection
+2025-06-19 05:06:10 info: try to create ws connection
+2025-06-19 05:16:10 info: try to create ws connection
+2025-06-19 05:26:10 info: try to create ws connection
+2025-06-19 05:36:10 info: try to create ws connection
+2025-06-19 05:46:10 info: try to create ws connection
+2025-06-19 05:56:10 info: try to create ws connection
+2025-06-19 06:06:10 info: try to create ws connection
+2025-06-19 06:16:10 info: try to create ws connection
+2025-06-19 06:26:10 info: try to create ws connection
+2025-06-19 06:36:10 info: try to create ws connection
+2025-06-19 06:46:10 info: try to create ws connection
+2025-06-19 06:56:10 info: try to create ws connection
+2025-06-19 07:06:10 info: try to create ws connection
+2025-06-19 07:16:10 info: try to create ws connection
+2025-06-19 07:26:10 info: try to create ws connection
+2025-06-19 07:36:10 info: try to create ws connection
+2025-06-19 07:46:10 info: try to create ws connection
+2025-06-19 07:56:10 info: try to create ws connection
+2025-06-19 08:06:10 info: try to create ws connection
+2025-06-19 08:16:10 info: try to create ws connection
+2025-06-19 08:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-19 08:26:10 info: try to create ws connection
+2025-06-19 08:36:10 info: try to create ws connection
+2025-06-19 08:46:10 info: try to create ws connection
+2025-06-19 08:56:10 info: try to create ws connection
+2025-06-19 09:06:10 info: try to create ws connection
+2025-06-19 09:16:10 info: try to create ws connection
+2025-06-19 09:26:10 info: try to create ws connection
+2025-06-19 09:36:10 info: try to create ws connection
+2025-06-19 09:46:10 info: try to create ws connection
+2025-06-19 09:56:10 info: try to create ws connection
+2025-06-19 10:06:10 info: try to create ws connection
+2025-06-19 10:16:10 info: try to create ws connection
+2025-06-19 10:26:10 info: try to create ws connection
+2025-06-19 10:36:10 info: try to create ws connection
+2025-06-19 10:46:10 info: try to create ws connection
+2025-06-19 10:56:10 info: try to create ws connection
+2025-06-19 11:06:10 info: try to create ws connection
+2025-06-19 11:16:10 info: try to create ws connection
+2025-06-19 11:26:10 info: try to create ws connection
+2025-06-19 11:36:10 info: try to create ws connection
+2025-06-19 11:46:10 info: try to create ws connection
+2025-06-19 11:56:10 info: try to create ws connection
+2025-06-19 12:06:10 info: try to create ws connection
+2025-06-19 12:16:10 info: try to create ws connection
+2025-06-19 12:26:10 info: try to create ws connection
+2025-06-19 12:36:10 info: try to create ws connection
+2025-06-19 12:46:10 info: try to create ws connection
+2025-06-19 12:56:10 info: try to create ws connection
+2025-06-19 13:06:10 info: try to create ws connection
+2025-06-19 13:16:10 info: try to create ws connection
+2025-06-19 13:26:10 info: try to create ws connection
+2025-06-19 13:36:10 info: try to create ws connection
+2025-06-19 13:46:10 info: try to create ws connection
+2025-06-19 13:56:10 info: try to create ws connection
+2025-06-19 14:06:10 info: try to create ws connection
+2025-06-19 14:16:10 info: try to create ws connection
+2025-06-19 14:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-19 14:26:10 info: try to create ws connection
+2025-06-19 14:36:10 info: try to create ws connection
+2025-06-19 14:46:10 info: try to create ws connection
+2025-06-19 14:56:10 info: try to create ws connection
+2025-06-19 15:06:10 info: try to create ws connection
+2025-06-19 15:16:10 info: try to create ws connection
+2025-06-19 15:26:10 info: try to create ws connection
+2025-06-19 15:36:10 info: try to create ws connection
+2025-06-19 15:46:10 info: try to create ws connection
+2025-06-19 15:56:10 info: try to create ws connection
+2025-06-19 16:06:10 info: try to create ws connection
+2025-06-19 16:16:10 info: try to create ws connection
+2025-06-19 16:26:10 info: try to create ws connection
+2025-06-19 16:36:10 info: try to create ws connection
+2025-06-19 16:46:10 info: try to create ws connection
+2025-06-19 16:56:10 info: try to create ws connection
+2025-06-19 17:06:10 info: try to create ws connection
+2025-06-19 17:16:10 info: try to create ws connection
+2025-06-19 17:26:10 info: try to create ws connection
+2025-06-19 17:36:10 info: try to create ws connection
+2025-06-19 17:46:10 info: try to create ws connection
+2025-06-19 17:56:10 info: try to create ws connection
+2025-06-19 18:06:10 info: try to create ws connection
+2025-06-19 18:16:10 info: try to create ws connection
+2025-06-19 18:26:10 info: try to create ws connection
+2025-06-19 18:36:10 info: try to create ws connection
+2025-06-19 18:46:10 info: try to create ws connection
+2025-06-19 18:56:10 info: try to create ws connection
+2025-06-19 19:06:10 info: try to create ws connection
+2025-06-19 19:16:10 info: try to create ws connection
+2025-06-19 19:26:10 info: try to create ws connection
+2025-06-19 19:36:10 info: try to create ws connection
+2025-06-19 19:46:10 info: try to create ws connection
+2025-06-19 19:56:10 info: try to create ws connection
+2025-06-19 20:06:10 info: try to create ws connection
+2025-06-19 20:16:10 info: try to create ws connection
+2025-06-19 20:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-19 20:26:10 info: try to create ws connection
+2025-06-19 20:36:10 info: try to create ws connection
+2025-06-19 20:46:10 info: try to create ws connection
+2025-06-19 20:56:10 info: try to create ws connection
+2025-06-19 21:06:10 info: try to create ws connection
+2025-06-19 21:16:10 info: try to create ws connection
+2025-06-19 21:26:10 info: try to create ws connection
+2025-06-19 21:36:10 info: try to create ws connection
+2025-06-19 21:46:10 info: try to create ws connection
+2025-06-19 21:56:10 info: try to create ws connection
+2025-06-19 22:06:10 info: try to create ws connection
+2025-06-19 22:16:10 info: try to create ws connection
+2025-06-19 22:26:10 info: try to create ws connection
+2025-06-19 22:36:10 info: try to create ws connection
+2025-06-19 22:46:10 info: try to create ws connection
+2025-06-19 22:56:10 info: try to create ws connection
+2025-06-19 23:06:10 info: try to create ws connection
+2025-06-19 23:16:10 info: try to create ws connection
+2025-06-19 23:26:10 info: try to create ws connection
+2025-06-19 23:36:10 info: try to create ws connection
+2025-06-19 23:46:10 info: try to create ws connection
+2025-06-19 23:56:10 info: try to create ws connection
+2025-06-20 00:06:10 info: try to create ws connection
+2025-06-20 00:16:10 info: try to create ws connection
+2025-06-20 00:26:10 info: try to create ws connection
+2025-06-20 00:36:10 info: try to create ws connection
+2025-06-20 00:46:10 info: try to create ws connection
+2025-06-20 00:56:10 info: try to create ws connection
+2025-06-20 00:56:19 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-20 01:06:10 info: try to create ws connection
+2025-06-20 01:16:10 info: try to create ws connection
+2025-06-20 01:26:10 info: try to create ws connection
+2025-06-20 01:36:10 info: try to create ws connection
+2025-06-20 01:46:10 info: try to create ws connection
+2025-06-20 01:56:10 info: try to create ws connection
+2025-06-20 02:06:10 info: try to create ws connection
+2025-06-20 02:16:10 info: try to create ws connection
+2025-06-20 02:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-20 02:26:10 info: try to create ws connection
+2025-06-20 02:36:10 info: try to create ws connection
+2025-06-20 02:46:10 info: try to create ws connection
+2025-06-20 02:56:10 info: try to create ws connection
+2025-06-20 03:06:10 info: try to create ws connection
+2025-06-20 03:16:10 info: try to create ws connection
+2025-06-20 03:26:10 info: try to create ws connection
+2025-06-20 03:36:10 info: try to create ws connection
+2025-06-20 03:46:10 info: try to create ws connection
+2025-06-20 03:56:10 info: try to create ws connection
+2025-06-20 04:06:10 info: try to create ws connection
+2025-06-20 04:16:10 info: try to create ws connection
+2025-06-20 04:26:10 info: try to create ws connection
+2025-06-20 04:36:10 info: try to create ws connection
+2025-06-20 04:46:10 info: try to create ws connection
+2025-06-20 04:56:10 info: try to create ws connection
+2025-06-20 05:06:10 info: try to create ws connection
+2025-06-20 05:16:10 info: try to create ws connection
+2025-06-20 05:26:10 info: try to create ws connection
+2025-06-20 05:36:10 info: try to create ws connection
+2025-06-20 05:46:10 info: try to create ws connection
+2025-06-20 05:56:10 info: try to create ws connection
+2025-06-20 06:06:10 info: try to create ws connection
+2025-06-20 06:16:10 info: try to create ws connection
+2025-06-20 06:26:10 info: try to create ws connection
+2025-06-20 06:36:10 info: try to create ws connection
+2025-06-20 06:46:10 info: try to create ws connection
+2025-06-20 06:56:10 info: try to create ws connection
+2025-06-20 07:06:10 info: try to create ws connection
+2025-06-20 07:16:10 info: try to create ws connection
+2025-06-20 07:26:10 info: try to create ws connection
+2025-06-20 07:36:10 info: try to create ws connection
+2025-06-20 07:46:10 info: try to create ws connection
+2025-06-20 07:56:10 info: try to create ws connection
+2025-06-20 08:06:10 info: try to create ws connection
+2025-06-20 08:16:10 info: try to create ws connection
+2025-06-20 08:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-20 08:26:10 info: try to create ws connection
+2025-06-20 08:36:10 info: try to create ws connection
+2025-06-20 08:46:10 info: try to create ws connection
+2025-06-20 08:56:10 info: try to create ws connection
+2025-06-20 09:06:10 info: try to create ws connection
+2025-06-20 09:16:10 info: try to create ws connection
+2025-06-20 09:26:10 info: try to create ws connection
+2025-06-20 09:36:10 info: try to create ws connection
+2025-06-20 09:46:10 info: try to create ws connection
+2025-06-20 09:56:10 info: try to create ws connection
+2025-06-20 10:06:10 info: try to create ws connection
+2025-06-20 10:16:10 info: try to create ws connection
+2025-06-20 10:26:10 info: try to create ws connection
+2025-06-20 10:36:10 info: try to create ws connection
+2025-06-20 10:46:10 info: try to create ws connection
+2025-06-20 10:56:10 info: try to create ws connection
+2025-06-20 11:06:10 info: try to create ws connection
+2025-06-20 11:16:10 info: try to create ws connection
+2025-06-20 11:26:10 info: try to create ws connection
+2025-06-20 11:36:10 info: try to create ws connection
+2025-06-20 11:46:10 info: try to create ws connection
+2025-06-20 11:56:10 info: try to create ws connection
+2025-06-20 12:06:10 info: try to create ws connection
+2025-06-20 12:16:10 info: try to create ws connection
+2025-06-20 12:26:10 info: try to create ws connection
+2025-06-20 12:36:10 info: try to create ws connection
+2025-06-20 12:46:10 info: try to create ws connection
+2025-06-20 12:56:10 info: try to create ws connection
+2025-06-20 13:06:10 info: try to create ws connection
+2025-06-20 13:16:10 info: try to create ws connection
+2025-06-20 13:26:10 info: try to create ws connection
+2025-06-20 13:36:10 info: try to create ws connection
+2025-06-20 13:46:10 info: try to create ws connection
+2025-06-20 13:56:10 info: try to create ws connection
+2025-06-20 14:06:10 info: try to create ws connection
+2025-06-20 14:16:10 info: try to create ws connection
+2025-06-20 14:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-20 14:26:10 info: try to create ws connection
+2025-06-20 14:36:10 info: try to create ws connection
+2025-06-20 14:46:10 info: try to create ws connection
+2025-06-20 14:56:10 info: try to create ws connection
+2025-06-20 15:06:10 info: try to create ws connection
+2025-06-20 15:16:10 info: try to create ws connection
+2025-06-20 15:26:10 info: try to create ws connection
+2025-06-20 15:36:10 info: try to create ws connection
+2025-06-20 15:46:10 info: try to create ws connection
+2025-06-20 15:56:10 info: try to create ws connection
+2025-06-20 16:06:10 info: try to create ws connection
+2025-06-20 16:16:10 info: try to create ws connection
+2025-06-20 16:26:10 info: try to create ws connection
+2025-06-20 16:36:10 info: try to create ws connection
+2025-06-20 16:46:10 info: try to create ws connection
+2025-06-20 16:56:10 info: try to create ws connection
+2025-06-20 17:06:10 info: try to create ws connection
+2025-06-20 17:16:10 info: try to create ws connection
+2025-06-20 17:26:10 info: try to create ws connection
+2025-06-20 17:36:10 info: try to create ws connection
+2025-06-20 17:46:10 info: try to create ws connection
+2025-06-20 17:56:10 info: try to create ws connection
+2025-06-20 18:06:10 info: try to create ws connection
+2025-06-20 18:16:10 info: try to create ws connection
+2025-06-20 18:26:10 info: try to create ws connection
+2025-06-20 18:36:10 info: try to create ws connection
+2025-06-20 18:46:10 info: try to create ws connection
+2025-06-20 18:56:10 info: try to create ws connection
+2025-06-20 19:06:10 info: try to create ws connection
+2025-06-20 19:16:10 info: try to create ws connection
+2025-06-20 19:26:10 info: try to create ws connection
+2025-06-20 19:36:10 info: try to create ws connection
+2025-06-20 19:46:10 info: try to create ws connection
+2025-06-20 19:56:10 info: try to create ws connection
+2025-06-20 20:06:10 info: try to create ws connection
+2025-06-20 20:16:10 info: try to create ws connection
+2025-06-20 20:26:10 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-20 20:26:10 info: try to create ws connection
+2025-06-30 15:22:34 info: try to create ws connection
+2025-06-30 15:32:34 info: try to create ws connection
+2025-06-30 15:42:34 info: try to create ws connection
+2025-06-30 15:52:34 info: try to create ws connection
+2025-06-30 16:02:34 info: try to create ws connection
+2025-06-30 16:12:34 info: try to create ws connection
+2025-06-30 16:22:34 info: try to create ws connection
+2025-06-30 16:32:34 info: try to create ws connection
+2025-06-30 16:42:34 info: try to create ws connection
+2025-06-30 16:52:34 info: try to create ws connection
+2025-06-30 17:02:34 info: try to create ws connection
+2025-06-30 17:12:34 info: try to create ws connection
+2025-06-30 17:22:34 info: try to create ws connection
+2025-06-30 17:32:34 info: try to create ws connection
+2025-06-30 17:42:34 info: try to create ws connection
+2025-06-30 17:52:34 info: try to create ws connection
+2025-06-30 18:02:34 info: try to create ws connection
+2025-06-30 18:12:34 info: try to create ws connection
+2025-06-30 18:22:34 info: try to create ws connection
+2025-06-30 18:32:34 info: try to create ws connection
+2025-06-30 20:29:05 info: Lingma [version: 2.5.13, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-06-30 20:29:05 info: Congratulations, "Lingma" is now active!
+2025-06-30 20:29:05 info: start update lingma binary: /home/mmc/.vscode-server/extensions/alibaba-cloud.tongyi-lingma-2.5.13/dist
+2025-06-30 20:29:05 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 20:29:05 info: read lingma info. pid=undefined
+2025-06-30 20:29:05 info: unzipLingma: start
+2025-06-30 20:29:13 info: unzip onclose
+2025-06-30 20:29:13 info: unzip onfinish
+2025-06-30 20:29:13 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 20:29:13 info: read cosy info empty, start lingma process now. 
+2025-06-30 20:29:13 info: try to start lingma process.
+2025-06-30 20:29:13 info: start lingma process successfully.
+2025-06-30 20:29:16 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 20:29:16 info: lingma try to connect to language server.
+2025-06-30 20:29:16 info: try to create ws connection
+2025-06-30 20:29:16 info: lingma connected to language server successfully.
+2025-06-30 20:29:16 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-06-30 20:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 20:39:03 info: try to create ws connection
+2025-06-30 20:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 20:49:03 info: try to create ws connection
+2025-06-30 20:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 20:59:03 info: try to create ws connection
+2025-06-30 21:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 21:09:03 info: try to create ws connection
+2025-06-30 21:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 21:19:03 info: try to create ws connection
+2025-06-30 21:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 21:29:03 info: try to create ws connection
+2025-06-30 21:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 21:39:03 info: try to create ws connection
+2025-06-30 21:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 21:49:03 info: try to create ws connection
+2025-06-30 21:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 21:59:03 info: try to create ws connection
+2025-06-30 22:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 22:09:03 info: try to create ws connection
+2025-06-30 22:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 22:19:03 info: try to create ws connection
+2025-06-30 22:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 22:29:03 info: try to create ws connection
+2025-06-30 22:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 22:39:03 info: try to create ws connection
+2025-06-30 22:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 22:49:03 info: try to create ws connection
+2025-06-30 22:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 22:59:03 info: try to create ws connection
+2025-06-30 23:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 23:09:03 info: try to create ws connection
+2025-06-30 23:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 23:19:03 info: try to create ws connection
+2025-06-30 23:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 23:29:03 info: try to create ws connection
+2025-06-30 23:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 23:39:03 info: try to create ws connection
+2025-06-30 23:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 23:49:03 info: try to create ws connection
+2025-06-30 23:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-06-30 23:59:03 info: try to create ws connection
+2025-07-01 00:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 00:09:03 info: try to create ws connection
+2025-07-01 00:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 00:19:03 info: try to create ws connection
+2025-07-01 00:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 00:29:03 info: try to create ws connection
+2025-07-01 00:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 00:39:03 info: try to create ws connection
+2025-07-01 00:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 00:49:03 info: try to create ws connection
+2025-07-01 00:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 00:59:03 info: try to create ws connection
+2025-07-01 01:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 01:09:03 info: try to create ws connection
+2025-07-01 01:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 01:19:03 info: try to create ws connection
+2025-07-01 01:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 01:29:03 info: try to create ws connection
+2025-07-01 01:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 01:39:03 info: try to create ws connection
+2025-07-01 01:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 01:49:03 info: try to create ws connection
+2025-07-01 01:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 01:59:03 info: try to create ws connection
+2025-07-01 02:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 02:09:03 info: try to create ws connection
+2025-07-01 02:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 02:19:03 info: try to create ws connection
+2025-07-01 02:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 02:29:03 info: try to create ws connection
+2025-07-01 02:29:03 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-07-01 02:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 02:39:03 info: try to create ws connection
+2025-07-01 02:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 02:49:03 info: try to create ws connection
+2025-07-01 02:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 02:59:03 info: try to create ws connection
+2025-07-01 03:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 03:09:03 info: try to create ws connection
+2025-07-01 03:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 03:19:03 info: try to create ws connection
+2025-07-01 03:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 03:29:03 info: try to create ws connection
+2025-07-01 03:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 03:39:03 info: try to create ws connection
+2025-07-01 03:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 03:49:03 info: try to create ws connection
+2025-07-01 03:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 03:59:03 info: try to create ws connection
+2025-07-01 04:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 04:09:03 info: try to create ws connection
+2025-07-01 04:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 04:19:03 info: try to create ws connection
+2025-07-01 04:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 04:29:03 info: try to create ws connection
+2025-07-01 04:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 04:39:03 info: try to create ws connection
+2025-07-01 04:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 04:49:03 info: try to create ws connection
+2025-07-01 04:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 04:59:03 info: try to create ws connection
+2025-07-01 05:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 05:09:03 info: try to create ws connection
+2025-07-01 05:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 05:19:03 info: try to create ws connection
+2025-07-01 05:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 05:29:03 info: try to create ws connection
+2025-07-01 05:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 05:39:03 info: try to create ws connection
+2025-07-01 05:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 05:49:03 info: try to create ws connection
+2025-07-01 05:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 05:59:03 info: try to create ws connection
+2025-07-01 06:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 06:09:03 info: try to create ws connection
+2025-07-01 06:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 06:19:03 info: try to create ws connection
+2025-07-01 06:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 06:29:03 info: try to create ws connection
+2025-07-01 06:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 06:39:03 info: try to create ws connection
+2025-07-01 06:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 06:49:03 info: try to create ws connection
+2025-07-01 06:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 06:59:03 info: try to create ws connection
+2025-07-01 07:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 07:09:03 info: try to create ws connection
+2025-07-01 07:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 07:19:03 info: try to create ws connection
+2025-07-01 07:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 07:29:03 info: try to create ws connection
+2025-07-01 07:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 07:39:03 info: try to create ws connection
+2025-07-01 07:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 07:49:03 info: try to create ws connection
+2025-07-01 07:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 07:59:03 info: try to create ws connection
+2025-07-01 08:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 08:09:03 info: try to create ws connection
+2025-07-01 08:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 08:19:03 info: try to create ws connection
+2025-07-01 08:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 08:29:03 info: try to create ws connection
+2025-07-01 08:29:03 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-07-01 08:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 08:39:03 info: try to create ws connection
+2025-07-01 08:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 08:49:03 info: try to create ws connection
+2025-07-01 08:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 08:59:03 info: try to create ws connection
+2025-07-01 09:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 09:09:03 info: try to create ws connection
+2025-07-01 09:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 09:19:03 info: try to create ws connection
+2025-07-01 09:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 09:29:03 info: try to create ws connection
+2025-07-01 09:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 09:39:03 info: try to create ws connection
+2025-07-01 09:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 09:49:03 info: try to create ws connection
+2025-07-01 09:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 09:59:03 info: try to create ws connection
+2025-07-01 10:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 10:09:03 info: try to create ws connection
+2025-07-01 10:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 10:19:03 info: try to create ws connection
+2025-07-01 10:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 10:29:03 info: try to create ws connection
+2025-07-01 10:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 10:39:03 info: try to create ws connection
+2025-07-01 10:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 10:49:03 info: try to create ws connection
+2025-07-01 10:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 10:59:03 info: try to create ws connection
+2025-07-01 11:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 11:09:03 info: try to create ws connection
+2025-07-01 11:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 11:19:03 info: try to create ws connection
+2025-07-01 11:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 11:29:03 info: try to create ws connection
+2025-07-01 11:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 11:39:03 info: try to create ws connection
+2025-07-01 11:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 11:49:03 info: try to create ws connection
+2025-07-01 11:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 11:59:03 info: try to create ws connection
+2025-07-01 12:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 12:09:03 info: try to create ws connection
+2025-07-01 12:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 12:19:03 info: try to create ws connection
+2025-07-01 12:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 12:29:03 info: try to create ws connection
+2025-07-01 12:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 12:39:03 info: try to create ws connection
+2025-07-01 12:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 12:49:03 info: try to create ws connection
+2025-07-01 12:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 12:59:03 info: try to create ws connection
+2025-07-01 13:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 13:09:03 info: try to create ws connection
+2025-07-01 13:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 13:19:03 info: try to create ws connection
+2025-07-01 13:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 13:29:03 info: try to create ws connection
+2025-07-01 13:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 13:39:03 info: try to create ws connection
+2025-07-01 13:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 13:49:03 info: try to create ws connection
+2025-07-01 13:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 13:59:03 info: try to create ws connection
+2025-07-01 14:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 14:09:03 info: try to create ws connection
+2025-07-01 14:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 14:19:03 info: try to create ws connection
+2025-07-01 14:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 14:29:03 info: try to create ws connection
+2025-07-01 14:29:03 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-07-01 14:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 14:39:03 info: try to create ws connection
+2025-07-01 14:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 14:49:03 info: try to create ws connection
+2025-07-01 14:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 14:59:03 info: try to create ws connection
+2025-07-01 15:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 15:09:03 info: try to create ws connection
+2025-07-01 15:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 15:19:03 info: try to create ws connection
+2025-07-01 15:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 15:29:03 info: try to create ws connection
+2025-07-01 15:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 15:39:03 info: try to create ws connection
+2025-07-01 15:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 15:49:03 info: try to create ws connection
+2025-07-01 15:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 15:59:03 info: try to create ws connection
+2025-07-01 16:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 16:09:03 info: try to create ws connection
+2025-07-01 16:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 16:19:03 info: try to create ws connection
+2025-07-01 16:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 16:29:03 info: try to create ws connection
+2025-07-01 16:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 16:39:03 info: try to create ws connection
+2025-07-01 16:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 16:49:03 info: try to create ws connection
+2025-07-01 16:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 16:59:03 info: try to create ws connection
+2025-07-01 17:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 17:09:03 info: try to create ws connection
+2025-07-01 17:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 17:19:03 info: try to create ws connection
+2025-07-01 17:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 17:29:03 info: try to create ws connection
+2025-07-01 17:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 17:39:03 info: try to create ws connection
+2025-07-01 17:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 17:49:03 info: try to create ws connection
+2025-07-01 17:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 17:59:03 info: try to create ws connection
+2025-07-01 18:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 18:09:03 info: try to create ws connection
+2025-07-01 18:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 18:19:03 info: try to create ws connection
+2025-07-01 18:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 18:29:03 info: try to create ws connection
+2025-07-01 18:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 18:39:03 info: try to create ws connection
+2025-07-01 18:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 18:49:03 info: try to create ws connection
+2025-07-01 18:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 18:59:03 info: try to create ws connection
+2025-07-01 19:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 19:09:03 info: try to create ws connection
+2025-07-01 19:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 19:19:03 info: try to create ws connection
+2025-07-01 19:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 19:29:03 info: try to create ws connection
+2025-07-01 19:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 19:39:03 info: try to create ws connection
+2025-07-01 19:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 19:49:03 info: try to create ws connection
+2025-07-01 19:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 19:59:03 info: try to create ws connection
+2025-07-01 20:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 20:09:03 info: try to create ws connection
+2025-07-01 20:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 20:19:03 info: try to create ws connection
+2025-07-01 20:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 20:29:03 info: try to create ws connection
+2025-07-01 20:29:03 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-07-01 20:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 20:39:03 info: try to create ws connection
+2025-07-01 20:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 20:49:03 info: try to create ws connection
+2025-07-01 20:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 20:59:03 info: try to create ws connection
+2025-07-01 21:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 21:09:03 info: try to create ws connection
+2025-07-01 21:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 21:19:03 info: try to create ws connection
+2025-07-01 21:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 21:29:03 info: try to create ws connection
+2025-07-01 21:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 21:39:03 info: try to create ws connection
+2025-07-01 21:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 21:49:03 info: try to create ws connection
+2025-07-01 21:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 21:59:03 info: try to create ws connection
+2025-07-01 22:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 22:09:03 info: try to create ws connection
+2025-07-01 22:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 22:19:03 info: try to create ws connection
+2025-07-01 22:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 22:29:03 info: try to create ws connection
+2025-07-01 22:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 22:39:03 info: try to create ws connection
+2025-07-01 22:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 22:49:03 info: try to create ws connection
+2025-07-01 22:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 22:59:03 info: try to create ws connection
+2025-07-01 23:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 23:09:03 info: try to create ws connection
+2025-07-01 23:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 23:19:03 info: try to create ws connection
+2025-07-01 23:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 23:29:03 info: try to create ws connection
+2025-07-01 23:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 23:39:03 info: try to create ws connection
+2025-07-01 23:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 23:49:03 info: try to create ws connection
+2025-07-01 23:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-01 23:59:03 info: try to create ws connection
+2025-07-02 00:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 00:09:03 info: try to create ws connection
+2025-07-02 00:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 00:19:03 info: try to create ws connection
+2025-07-02 00:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 00:29:03 info: try to create ws connection
+2025-07-02 00:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 00:39:03 info: try to create ws connection
+2025-07-02 00:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 00:49:03 info: try to create ws connection
+2025-07-02 00:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 00:59:03 info: try to create ws connection
+2025-07-02 01:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 01:09:03 info: try to create ws connection
+2025-07-02 01:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 01:19:03 info: try to create ws connection
+2025-07-02 01:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 01:29:03 info: try to create ws connection
+2025-07-02 01:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 01:39:03 info: try to create ws connection
+2025-07-02 01:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 01:49:03 info: try to create ws connection
+2025-07-02 01:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 01:59:03 info: try to create ws connection
+2025-07-02 02:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 02:09:03 info: try to create ws connection
+2025-07-02 02:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 02:19:03 info: try to create ws connection
+2025-07-02 02:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 02:29:03 info: try to create ws connection
+2025-07-02 02:29:03 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-07-02 02:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 02:39:03 info: try to create ws connection
+2025-07-02 02:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 02:49:03 info: try to create ws connection
+2025-07-02 02:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 02:59:03 info: try to create ws connection
+2025-07-02 03:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 03:09:03 info: try to create ws connection
+2025-07-02 03:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 03:19:03 info: try to create ws connection
+2025-07-02 03:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 03:29:03 info: try to create ws connection
+2025-07-02 03:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 03:39:03 info: try to create ws connection
+2025-07-02 03:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 03:49:03 info: try to create ws connection
+2025-07-02 03:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 03:59:03 info: try to create ws connection
+2025-07-02 04:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 04:09:03 info: try to create ws connection
+2025-07-02 04:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 04:19:03 info: try to create ws connection
+2025-07-02 04:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 04:29:03 info: try to create ws connection
+2025-07-02 04:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 04:39:03 info: try to create ws connection
+2025-07-02 04:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 04:49:03 info: try to create ws connection
+2025-07-02 04:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 04:59:03 info: try to create ws connection
+2025-07-02 05:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 05:09:03 info: try to create ws connection
+2025-07-02 05:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 05:19:03 info: try to create ws connection
+2025-07-02 05:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 05:29:03 info: try to create ws connection
+2025-07-02 05:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 05:39:03 info: try to create ws connection
+2025-07-02 05:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 05:49:03 info: try to create ws connection
+2025-07-02 05:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 05:59:03 info: try to create ws connection
+2025-07-02 06:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 06:09:03 info: try to create ws connection
+2025-07-02 06:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 06:19:03 info: try to create ws connection
+2025-07-02 06:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 06:29:03 info: try to create ws connection
+2025-07-02 06:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 06:39:03 info: try to create ws connection
+2025-07-02 06:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 06:49:03 info: try to create ws connection
+2025-07-02 06:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 06:59:03 info: try to create ws connection
+2025-07-02 07:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 07:09:03 info: try to create ws connection
+2025-07-02 07:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 07:19:03 info: try to create ws connection
+2025-07-02 07:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 07:29:03 info: try to create ws connection
+2025-07-02 07:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 07:39:03 info: try to create ws connection
+2025-07-02 07:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 07:49:03 info: try to create ws connection
+2025-07-02 07:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 07:59:03 info: try to create ws connection
+2025-07-02 08:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 08:09:03 info: try to create ws connection
+2025-07-02 08:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 08:19:03 info: try to create ws connection
+2025-07-02 08:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 08:29:03 info: try to create ws connection
+2025-07-02 08:29:03 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-07-02 08:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 08:39:03 info: try to create ws connection
+2025-07-02 08:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 08:49:03 info: try to create ws connection
+2025-07-02 08:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 08:59:03 info: try to create ws connection
+2025-07-02 09:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 09:09:03 info: try to create ws connection
+2025-07-02 09:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 09:19:03 info: try to create ws connection
+2025-07-02 09:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 09:29:03 info: try to create ws connection
+2025-07-02 09:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 09:39:03 info: try to create ws connection
+2025-07-02 09:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 09:49:03 info: try to create ws connection
+2025-07-02 09:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 09:59:03 info: try to create ws connection
+2025-07-02 10:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 10:09:03 info: try to create ws connection
+2025-07-02 10:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 10:19:03 info: try to create ws connection
+2025-07-02 10:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 10:29:03 info: try to create ws connection
+2025-07-02 10:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 10:39:03 info: try to create ws connection
+2025-07-02 10:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 10:49:03 info: try to create ws connection
+2025-07-02 10:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 10:59:03 info: try to create ws connection
+2025-07-02 11:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 11:09:03 info: try to create ws connection
+2025-07-02 11:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 11:19:03 info: try to create ws connection
+2025-07-02 11:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 11:29:03 info: try to create ws connection
+2025-07-02 11:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 11:39:03 info: try to create ws connection
+2025-07-02 11:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 11:49:03 info: try to create ws connection
+2025-07-02 11:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 11:59:03 info: try to create ws connection
+2025-07-02 12:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 12:09:03 info: try to create ws connection
+2025-07-02 12:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 12:19:03 info: try to create ws connection
+2025-07-02 12:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 12:29:03 info: try to create ws connection
+2025-07-02 12:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 12:39:03 info: try to create ws connection
+2025-07-02 12:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 12:49:03 info: try to create ws connection
+2025-07-02 12:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 12:59:03 info: try to create ws connection
+2025-07-02 13:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 13:09:03 info: try to create ws connection
+2025-07-02 13:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 13:19:03 info: try to create ws connection
+2025-07-02 13:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 13:29:03 info: try to create ws connection
+2025-07-02 13:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 13:39:03 info: try to create ws connection
+2025-07-02 13:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 13:49:03 info: try to create ws connection
+2025-07-02 13:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 13:59:03 info: try to create ws connection
+2025-07-02 14:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 14:09:03 info: try to create ws connection
+2025-07-02 14:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 14:19:03 info: try to create ws connection
+2025-07-02 14:29:03 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-07-02 14:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 14:29:03 info: try to create ws connection
+2025-07-02 14:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 14:39:03 info: try to create ws connection
+2025-07-02 14:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 14:49:03 info: try to create ws connection
+2025-07-02 14:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 14:59:03 info: try to create ws connection
+2025-07-02 15:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 15:09:03 info: try to create ws connection
+2025-07-02 15:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 15:19:03 info: try to create ws connection
+2025-07-02 15:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 15:29:03 info: try to create ws connection
+2025-07-02 15:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 15:39:03 info: try to create ws connection
+2025-07-02 15:49:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 15:49:03 info: try to create ws connection
+2025-07-02 15:59:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 15:59:03 info: try to create ws connection
+2025-07-02 16:09:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 16:09:03 info: try to create ws connection
+2025-07-02 16:19:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 16:19:03 info: try to create ws connection
+2025-07-02 16:29:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 16:29:03 info: try to create ws connection
+2025-07-02 16:39:03 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 16:39:03 info: try to create ws connection
+2025-07-02 16:40:12 info: Lingma [version: 2.5.14, lang: zh-cn, platform: linux, arch: x64, appName=Visual Studio Code, runMode: remote, extensionKind=2, remoteName=ssh-remote, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-07-02 16:40:12 info: Congratulations, "Lingma" is now active!
+2025-07-02 16:40:12 info: start update lingma binary: /home/mmc/.vscode-server/extensions/alibaba-cloud.tongyi-lingma-2.5.14/dist
+2025-07-02 16:40:12 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 16:40:12 info: read lingma info. pid=71687
+2025-07-02 16:40:12 info: start kill lingma process, pid=71687
+2025-07-02 16:40:12 info: kill lingma process finished
+2025-07-02 16:40:12 info: kill lingma process finish.
+2025-07-02 16:40:13 info: unzipLingma: start
+2025-07-02 16:40:17 info: unzip onclose
+2025-07-02 16:40:17 info: unzip onfinish
+2025-07-02 16:40:17 info: lingma info not exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 16:40:17 info: read cosy info empty, start lingma process now. 
+2025-07-02 16:40:17 info: try to start lingma process.
+2025-07-02 16:40:17 info: start lingma process successfully.
+2025-07-02 16:40:20 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 16:40:20 info: lingma try to connect to language server.
+2025-07-02 16:40:20 info: try to create ws connection
+2025-07-02 16:40:20 info: lingma connected to language server successfully.
+2025-07-02 16:40:20 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-07-02 16:50:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 16:50:10 info: try to create ws connection
+2025-07-02 17:00:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 17:00:10 info: try to create ws connection
+2025-07-02 17:10:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 17:10:10 info: try to create ws connection
+2025-07-02 17:20:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 17:20:10 info: try to create ws connection
+2025-07-02 17:30:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 17:30:10 info: try to create ws connection
+2025-07-02 17:40:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 17:40:10 info: try to create ws connection
+2025-07-02 17:50:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 17:50:10 info: try to create ws connection
+2025-07-02 18:00:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 18:00:10 info: try to create ws connection
+2025-07-02 18:10:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 18:10:10 info: try to create ws connection
+2025-07-02 18:20:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 18:20:10 info: try to create ws connection
+2025-07-02 18:30:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 18:30:10 info: try to create ws connection
+2025-07-02 18:40:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 18:40:10 info: try to create ws connection
+2025-07-02 18:50:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 18:50:10 info: try to create ws connection
+2025-07-02 19:00:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 19:00:10 info: try to create ws connection
+2025-07-02 19:10:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 19:10:10 info: try to create ws connection
+2025-07-02 19:20:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 19:20:10 info: try to create ws connection
+2025-07-02 19:30:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 19:30:10 info: try to create ws connection
+2025-07-02 19:40:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 19:40:10 info: try to create ws connection
+2025-07-02 19:50:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 19:50:10 info: try to create ws connection
+2025-07-02 20:00:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 20:00:10 info: try to create ws connection
+2025-07-02 20:10:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 20:10:10 info: try to create ws connection
+2025-07-02 20:20:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 20:20:10 info: try to create ws connection
+2025-07-02 20:30:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 20:30:10 info: try to create ws connection
+2025-07-02 20:40:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 20:40:10 info: try to create ws connection
+2025-07-02 20:50:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 20:50:10 info: try to create ws connection
+2025-07-02 21:00:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 21:00:10 info: try to create ws connection
+2025-07-02 21:10:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 21:10:10 info: try to create ws connection
+2025-07-02 21:20:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 21:20:10 info: try to create ws connection
+2025-07-02 21:30:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 21:30:10 info: try to create ws connection
+2025-07-02 21:40:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 21:40:10 info: try to create ws connection
+2025-07-02 21:50:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 21:50:10 info: try to create ws connection
+2025-07-02 22:00:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 22:00:10 info: try to create ws connection
+2025-07-02 22:10:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 22:10:10 info: try to create ws connection
+2025-07-02 22:20:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 22:20:10 info: try to create ws connection
+2025-07-02 22:30:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 22:30:10 info: try to create ws connection
+2025-07-02 22:40:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 22:40:10 info: try to create ws connection
+2025-07-02 22:40:11 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
+2025-07-02 22:50:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 22:50:10 info: try to create ws connection
+2025-07-02 23:00:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 23:00:10 info: try to create ws connection
+2025-07-02 23:10:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 23:10:10 info: try to create ws connection
+2025-07-02 23:20:10 info: lingma info exist. infoFile=/home/mmc/.lingma/.info
+2025-07-02 23:20:10 info: try to create ws connection
+2025-07-02 23:25:18 info: auth status synced. id=马帅帅623, status=2, whitelist=3, token=
