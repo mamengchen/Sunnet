@@ -48,3 +48,4 @@ reference emplace_back(Args&&... args) {
     return data_[size_ - 1]; // 返回新对象的引用
 }
 ```
+函数`emplace_back`在`vector`容器中添加一个元素，并返回该元素的引用。这个函数首先检查容器的容量是否已经达到最大，如果是，则调用`reserve`函数进行扩容。然后，使用`allocator_traits::construct`函数在容器的尾部位置构造一个对象，并返回该对象的引用。
