@@ -45,3 +45,9 @@ for (int i = 0; i < n; i++) {
     }
 }
 ```
+rpcTest为其中1.1的版本，其中有一些漏洞我们接下来一起来完善.
+
+1.2 版本：封装原生的 socket：
+<p>
+NetThread 中 socket 部分的代码是可以复用的，所以可以单独拿出来，tc_socket.h 中的 TC_socket 是对原生 socket 的封装，注意同步修改 tc_epoll_server 中的代码
+</p>
